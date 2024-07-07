@@ -208,11 +208,15 @@
     <hr />
 
     <i> i elementi</i>
+    <br />
     <em> em eleneti</em>
+    <br />
     <span> span elementi </span>
     <span>yan yana metinler için kullanılır.</span>
+    <br />
 
     <b> b elementi metni bold - kalın yapmak için kullanılır. </b>
+    <br />
     <strong>
       strong elementi vurgulamak için istenen alanı kalın gösterir.
     </strong>
@@ -228,7 +232,200 @@
     <ins> html ins elementi </ins>
     <p>sub elementi ile <sub> alt </sub> cıkıntılı metin girebiliriz</p>
     <p>sub elementi ile <sup> üst </sup> cıkıntılı metin girebiliriz</p>
-    <hr>
-    
+    <hr />
+    <ul>
+      <li>
+        <a href="/Anasayfa.html">Anasayfa</a>
+      </li>
+      <li>
+        <a href="/index.html">İndex</a>
+      </li>
+      <li>
+        <a href="#iletişim">İletişim</a>
+      </li>
+    </ul>
+    <h4>Ordered List</h4>
+    <ol>
+      <li>Elektronik</li>
+      <li>Bilgisayar</li>
+      <li>Telefon</li>
+    </ol>
+
+    <h4>Açıklamalaı Liste</h4>
+
+    <dl>
+      <dt>Ürün Adı :</dt>
+      <dd>Asus Laptop</dd>
+      <dt>Fiyatı:</dt>
+      <dd>18.000₺</dd>
+      <dt>Stok</dt>
+      <dd>18 Adet</dd>
+      <dt>Ürün Resmi :</dt>
+      <dd>
+        <img
+          src="Resimler/pexels-pixabay-289586.jpg"
+          alt="google"
+          width="450"
+          height="150"
+        />
+      </dd>
+    </dl>
+
+    <h3>Html Koduna Yorum Satırı Ekleme</h3>
+    <p>
+      Kod editöründe html kodları arasında yorum satırı ekleme istersek ilgili
+      metni seçip cmd + k +c kısa yoluyla yorum satırı yapabiliriz. cmd + K + U
+      yorumdan atıyor.
+    </p>
+
+    <!-- burası yorum alanı kod bitişi -->
+    <h3>Fieldset Elementi</h3>
+
+    <fieldset>
+      <legend>Kullanıcı Girişi</legend>
+      <form action="/index.html">
+        <table border="1">
+          <tr>
+            <td>Kullanıcı Adı</td>
+            <td><input type="text" name="username" id="username" /></td>
+          </tr>
+          <tr>
+            <td>Şifre</td>
+            <td><input type="password" name="password" id="password" /></td>
+          </tr>
+          <td></td>
+          <td><input type="submit" value="Giriş" /></td>
+        </table>
+      </form>
+    </fieldset>
+
+    <h3>Get Metoduyla Ürün Arama</h3>
+
+    <form action="/search.html" method="get">
+      <input
+        type="search"
+        name="Kelime"
+        id="kelime"
+        value=""
+        placeholder="Ürün Ara"
+      />
+      <input type="submit" value="Ara" />
+    </form>
+    <h3>Post Methoduyla işlem yapma</h3>
+    <form action="/" method="post">
+      <table>
+        <tr>
+          <td>Ürün Adı :</td>
+          <td><input type="text" name="txtUrunAdi" id="txtUrunAdi" /></td>
+        </tr>
+        <tr>
+          <td>Fiyati</td>
+          <td>
+            <input
+              type="txtUrunFiyati"
+              name="txtUrunFiyati"
+              id="txtUrunFiyati"
+            />
+          </td>
+        </tr>
+        <tr>
+          <td>Stock</td>
+          <td>
+            <input type="txtUrunStock" name="txtUrunStock" id="txtUrunStock" />
+          </td>
+        </tr>
+        <tr>
+          <td>Ürün Kategorisi</td>
+          <td>
+            <select name="Kategori" id="kategori">
+              <option value="1">Seçiniz</option>
+              <option value="2">Elektronik</option>
+              <option value="3">Bilgisayar</option>
+              <option value="4">Telefon</option>
+            </select>
+          </td>
+        </tr>
+        <tr>
+          <td>Ürün Açıklaması</td>
+          <td>
+            <textarea name="aciklama" id="aciklama" rows="5"></textarea>
+          </td>
+        </tr>
+        <tr>
+          <td>Durum</td>
+          <td>
+            <input type="checkbox" name="durum" id="durum" />
+            <label for="durum">Aktif</label>
+          </td>
+        </tr>
+        <tr>
+          <td>Anasayfa</td>
+          <td>
+            <input type="radio" name="cbAnasayfa" id="cbAnasayfa" />
+            <label for="cbAnasayfa">Göster</label>
+            <input type="radio" name="cbAnasayfa" id="cbAnasayfa" />
+            <label for="cbAnasayfa">Gösterme</label>
+          </td>
+        </tr>
+        <tr>
+          <td><input type="button" value="Kaydet" /></td>
+          <td><input type="reset" value="Temizle" /></td>
+        </tr>
+      </table>
+    </form>
+    <h2>Semantik html5 elementleri</h2>
+    <div>
+      html ye sonradan eklenen ve tasarımları daha anlaşılabilir hale getirmeti
+      hedefleyen elementlerdir.
+    </div>
+
+    <header>Web sayfalarının en üst bölümü bu element içinde yer alır.
+    <nav>
+      <ul>
+        <li>
+          <a href="/Anasayfa.html">Anasayfa</a>
+        </li>
+        <li>
+          <a href="/index.html">Index</a>
+        </li>
+        <li>
+          <a href="/search.html">Arama</a>
+        </li>
+      </ul>
+    </nav>
+  </header>
+
+<section>
+  section web sayfamızın ana gövdesini tutmak için kullanılabilir.
+  <aside>
+    aside elementi yan menüleri ifade etmek için kullanılır.
+    <nav>
+      <ul>
+        <li>
+          <a href="/Anasayfa.html">Anasayfa</a>
+        </li>
+        <li>
+          <a href="/index.html">Index</a>
+        </li>
+        <li>
+          <a href="/search.html">Arama</a>
+        </li>
+      </ul>
+    </nav>
+
+  </aside>
+  <article>
+    Article elementi bilgi verme amaçlı haber, makale vb gibi içerik kapsayıcı olarak kullanılabiliri.
+  </article>
+  <figure>
+    <Figcaption>Resim alanlarını çevelemek için figcaption kullanabiliriz.</Figcaption>
+    <img src="/Resimler/pexels-pixabay-289586.jpg" alt="google" width="400" height="100">
+  </figure>
+</section>
+<footer>
+  foother elementi ise web sayfalarının en alt kısmını çevrelemek için kullanılabilir.
+</footer>
+
+
   </body>
 </html>
