@@ -1,0 +1,512 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>  Document</title>
+    <link
+    rel="stylesheet"
+    href="/BootstapEgitimi/bootstrap-5.3.3-dist 3/css/bootstrap.min.css"
+  />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+  <link type="image/x-icon" rel="icon" href="/Resimler/favicon.ico" />
+ 
+</head>
+<body>
+    <div class="container">
+        <h1>Bootstrap Komponentler</h1>
+        <p>
+            Bootstrap Kütüphanesinde uygulamalarda en sık kullanılan slider,
+            açılır menü vb gibi javascript tabanlı hazır komponentler bulunur.
+        </p>
+        <p>
+            Komponentleri kullanabilmek için bootstrap javascript kütüphanesinide sayfada çağırmamız gerek.
+        </p>
+        <p>
+            Komponentlere ait hazır kod scriptlerine bootstrap in sitesinden erişebiliriz.
+        </p>
+
+
+
+        <div class="accordion" id="accordionExample">
+            <div class="accordion-item">
+              <h2 class="accordion-header">
+                <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                  Accordion Item #1
+                </button>
+              </h2>
+              <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
+                <div class="accordion-body">
+                  <strong>This is the first item's accordion body.</strong> It is shown by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+                </div>
+              </div>
+            </div>
+            <div class="accordion-item">
+              <h2 class="accordion-header">
+                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                  Accordion Item #2
+                </button>
+              </h2>
+              <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                <div class="accordion-body">
+                  <strong>This is the second item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+                </div>
+              </div>
+            </div>
+            <div class="accordion-item">
+              <h2 class="accordion-header">
+                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                  Accordion Item #3
+                </button>
+              </h2>
+              <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                <div class="accordion-body">
+                  <strong>This is the third item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+                </div>
+              </div>
+            </div>
+          </div>
+          <hr>
+          <div class="card" style="width: 18rem;">
+            <img src="/Resimler/infotechacademy_python_veribilimi_egitimi26.png" class="card-img-top" alt="...">
+            <div class="card-body">
+              <h5 class="card-title">Card title</h5>
+              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+              <a href="#" class="btn btn-primary">Go somewhere</a>
+            </div>
+          </div>
+          <hr>
+          <div class="row row-cols-1 row-cols-md-2 g-4">
+            <div class="col">
+              <div class="card">
+                <img src="/Resimler/flutter_kursu_egitimi_mobil_uygulama_infotech_academy23.png" class="card-img-top" alt="...">
+                <div class="card-body">
+                  <h5 class="card-title">Card title</h5>
+                  <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                </div>
+
+              </div>
+            
+            </div>
+            
+            <div class="col">
+              <div class="card">
+                <img src="/Resimler/pexels-pixabay-163864.jpg" class="card-img-top" alt="...">
+                <div class="card-body">
+                  <h5 class="card-title">Card title</h5>
+                  <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                </div>
+              </div>
+            </div>
+            <div class="col">
+              <div class="card">
+                <img src="/Resimler/infotechacademy_python_veribilimi_egitimi26.png" class="card-img-top" alt="...">
+                <div class="card-body">
+                  <h5 class="card-title">Card title</h5>
+                  <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content.</p>
+                </div>
+              </div>
+            </div>
+            <div class="col">
+              <div class="card">
+                <img src="/Resimler/pexels-asadphoto-1320684.jpg" class="card-img-top" alt="...">
+                <div class="card-body">
+                  <h5 class="card-title"><i class="bi bi-credit-card"></i> Card title</h5>
+                  <p class="card-text">
+                    <a href="#"class="btn btn-outline-primary">
+                      <i class="bi bi-credit-card"></i>
+                    </a>
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <hr>
+          <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel">
+            <div class="carousel-indicators">
+              <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+              <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
+              <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2" aria-label="Slide 3"></button>
+            </div>
+            <div class="carousel-inner">
+              <div class="carousel-item active">
+                <img src="/Resimler/pexels-pixabay-163864.jpg" class="d-block w-100" alt="...">
+                <div class="carousel-caption d-none d-md-block">
+                  <h5>First slide label</h5>
+                  <p>Some representative placeholder content for the first slide.</p>
+                </div>
+              </div>
+              <div class="carousel-item">
+                <img src="/Resimler/pexels-pixabay-235990.jpg" class="d-block w-100" alt="...">
+                <div class="carousel-caption d-none d-md-block">
+                  <h5>Second slide label</h5>
+                  <p>Some representative placeholder content for the second slide.</p>
+                </div>
+              </div>
+              <div class="carousel-item">
+                <img src="/Resimler/pexels-pixabay-289586.jpg" class="d-block w-100" alt="...">
+                <div class="carousel-caption d-none d-md-block">
+                  <h5>Third slide label</h5>
+                  <p>Some representative placeholder content for the third slide.</p>
+                </div>
+              </div>
+            </div>
+            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="visually-hidden">Previous</span>
+            </button>
+            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="next">
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="visually-hidden">Next</span>
+            </button>
+          </div>
+          <hr>
+          <p class="d-inline-flex gap-1">
+           
+            <button class="btn btn-primary" type="button" data-bs-toggle="collapse" data-bs-target=".multi-collapse" aria-expanded="false" aria-controls="multiCollapseExample1 multiCollapseExample2">Toggle both elements</button>
+          </p>
+          <div class="row">
+            <div class="col">
+              <div class="collapse multi-collapse" id="multiCollapseExample1">
+                <div class="card card-body">
+                  Some placeholder content for the first collapse component of this multi-collapse example. This panel is hidden by default but revealed when the user activates the relevant trigger.
+                </div>
+              </div>
+            </div>
+            <div class="col">
+              <div class="collapse multi-collapse" id="multiCollapseExample2">
+                <div class="card card-body">
+                  Some placeholder content for the second collapse component of this multi-collapse example. This panel is hidden by default but revealed when the user activates the relevant trigger.
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <h2>
+            <h2> DropDown Link</h2>
+          </h2>
+          <div class="dropdown">
+            <a class="btn btn-secondary dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+              Dropdown link
+            </a>
+          
+            <ul class="dropdown-menu">
+              <li><a class="dropdown-item" href="#">Elektronik</a></li>
+              <li><a class="dropdown-item" href="#">Bilgisayar</a></li>
+              <li><a class="dropdown-item" href="#">Tablet</a></li>
+            </ul>
+          </div>
+          <h2> Modal Popup</h2>
+          <!-- Button trigger modal -->
+<button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">
+  Launch demo modal
+</button>
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h1 class="modal-title fs-5" id="exampleModalLabel">Modal title</h1>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <img src="/Resimler/CEPAlogo.png" alt="" class="img-thumbnail">
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-primary">Save changes</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<p>KART GROUp</p>
+<div class="card-group">
+  <div class="card">
+    <img src="/Resimler/bgVideo.jpg" class="card-img-top" class="img-fluid" alt="...">
+    <div class="card-body">
+      <h5 class="card-title">Card title</h5>
+      <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+      <p class="card-text"><small class="text-body-secondary">Last updated 3 mins ago</small></p>
+    </div>
+  </div>
+  <div class="card">
+    <img src="/Resimler/pexels-asadphoto-1320684.jpg" class="card-img-top "  class=" img-fluid"alt="..." >
+    <div class="card-body">
+      <h5 class="card-title">Card title</h5>
+      <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+      <p class="card-text"><small class="text-body-secondary">Last updated 3 mins ago</small></p>
+    </div>
+  </div>
+  <div class="card">
+    <img src="/Resimler/pexels-freestockpro-320260.jpg" class="card-img-top" class="img-fluid" alt="...">
+    <div class="card-body">
+      <h5 class="card-title">Card title</h5>
+      <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
+      <p class="card-text"><small class="text-body-secondary">Last updated 3 mins ago</small></p>
+    </div>
+  </div>
+</div>
+<hr>
+<h2>NAVBA- ÜST MENÜ</h2>
+
+<nav class="navbar navbar-expand-lg bg-body-tertiary fixed-top">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="#">Navbar</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="#">Home</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Link</a>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            Dropdown
+          </a>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="#">Ana Sayfa</a></li>
+            <li><a class="dropdown-item" href="#"> Hakkımızda</a></li>
+            <li><hr class="dropdown-divider"></li>
+            <li><a class="dropdown-item" href="#">Something else here</a></li>
+          </ul>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link disabled" aria-disabled="true">Disabled</a>
+        </li>
+      </ul>
+      <form class="d-flex" role="search">
+        <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+        <button class="btn btn-outline-success" type="submit">Search</button>
+      </form>
+    </div>
+  </div>
+</nav>
+<h2>Scrollspy - Menüye tıklayınca ilgili elemente gitme</h2>
+<div class="bd-example">
+<nav id="navbar-example2" class="navbar bg-body-tertiary px-3 mb-3">
+  <a class="navbar-brand" href="#">Navbar</a>
+  <ul class="nav nav-pills">
+    <li class="nav-item">
+      <a class="nav-link" href="#scrollspyHeading1">First</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="#scrollspyHeading2">Second</a>
+    </li>
+    <li class="nav-item dropdown">
+      <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">Dropdown</a>
+      <ul class="dropdown-menu">
+        <li><a class="dropdown-item" href="#scrollspyHeading3">Third</a></li>
+        <li><a class="dropdown-item" href="#scrollspyHeading4">Fourth</a></li>
+        <li><hr class="dropdown-divider"></li>
+        <li><a class="dropdown-item" href="#scrollspyHeading5">Fifth</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+<div data-bs-spy="scroll" data-bs-target="#navbar-example2" data-bs-root-margin="0px 0px -40%" data-bs-smooth-scroll="true" class="scrollspy-example bg-body-tertiary p-3 rounded-2" tabindex="0">
+  <h4 id="scrollspyHeading1">First heading</h4>
+  <p><img src="/Resimler/flutter_kursu_egitimi_mobil_uygulama_infotech_academy23.png" alt="" class="img-fluid"></p>
+  <h4 id="scrollspyHeading2">Second heading</h4>
+  <p><img src="/Resimler/CEPAlogo.png" alt="" class="img-fluid"></p>
+  <h4 id="scrollspyHeading3">Third heading</h4>
+  <p><img src="/Resimler/infotechacademy_python_veribilimi_egitimi26.png" alt="" class="img-fluid"></p>
+  <h4 id="scrollspyHeading4">Fourth heading</h4>
+  <p><img src="/Resimler/pexels-pixabay-235990.jpg" alt="" class="img-fluid"></p>
+  <h4 id="scrollspyHeading5">Fifth heading</h4>
+  <p><img src="/Resimler/bgVideo.jpg" alt="" class="img-fluid"></p>
+</div>
+</div>
+
+<h2>Toast Mesaj</h2>
+<button type="button" class="btn btn-primary" id="liveToastBtn">Show live toast</button>
+
+<div class="toast-container position-fixed bottom-0 end-0 p-3">
+  <div id="liveToast" class="toast" role="alert" aria-live="assertive" aria-atomic="true">
+    <div class="toast-header">
+      <i class="bi bi-playstation me-1"> </i>
+      <strong class="me-auto"> FC 24 ULTİMATE TEAM</strong>
+      <small>11 mins ago</small>
+      <button type="button" class="btn-close" data-bs-dismiss="toast" aria-label="Close"></button>
+    </div>
+    <div class="toast-body">
+     Gel FC 24 kapışalım
+    </div>
+  </div>
+</div>
+
+<hr>
+<h2> Text Truncation : Sığmayan içeriği kırpma</h2>
+
+<!-- Block level -->
+<div class="row">
+  <div class="col-2 text-truncate">
+    This text is quite long, and will be truncated once displayed.
+  </div>
+</div>
+
+<!-- Inline level -->
+<span class="d-inline-block text-truncate" style="max-width: 150px;">
+  This text is quite long, and will be truncated once displayed.
+</span>
+
+<hr>
+<h2>Vertical Rule : dikey çizgi</h2>
+
+<div class="d-flex justify-content-between" style="height: 200px;">
+  <div class="col-3 ms-3">
+      <h2>Neden Biz?</h2>
+      <p>
+          Yazılım eğitimi için bizi tercih edin.
+      </p>
+  </div>
+  <div class="vr"></div>
+  <div class="col-3 ms-3">
+      <h2>Neden Biz?</h2>
+      <p>
+          Yazılım eğitimi için bizi tercih edin.
+      </p>
+  </div>
+</div>
+
+<hr>
+<h2>
+  Bootstrap Icons- Web uygulamalarında küçük ikonlar kullanabilmemizi sağlayan kütüphane 
+</h2>
+<h3>Kullanımı : </h3>
+<ol>
+  <li>Bootstrap sitesinden icons menüsüne gidiyoruz.</li>
+  <li>Aşağıda install menüsüne tıklıyoruz</li>
+  <li>Uygulamızda hızlıca kullanmak için CDN kodunu direkt kopyalayabilriiz.</li>
+  <li>Download ile bilgisayara indirip kütüphanesi projeye yükleyerek kullanabiliriz.</li>
+  <li>CSS kütüphanesini ikon kullanacağımız ekranlarda sayfanın head tagları arasında çağrıyoruz.</li>
+  <li>Sonrasında Bootstarp icons menüsündeki ikonlara tıklayıp açılan sayfadan  i elementini class ile birlikte kopyalıyoruz.</li>
+  <li>Kopyaladığımız ikonu sayfamızda kullamaz istediğimiz yere yapıştırıyoruz.</li>
+</ol>
+<h3> Nisanın Sabah alarmı  : <i class="bi-alarm"></i></h3>
+<h3>Mertin sabah alarmı : <i class="bi-alarm" style="font-size: 2rem; color: cornflowerblue;"></i></h3>
+<h3>Mertin  uyandıran sabah alarmı : <i class="bi-alarm text-success" style="font-size: 2rem; "></i></h3>
+
+<h3> Mert kalk :<i class="bi bi-speaker-fill text-primary"></i></h3>
+
+<h2>SVG Kaynak Kodu Kullanma </h2>
+
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-house-x-fill" viewBox="0 0 16 16">
+  <path d="M8.707 1.5a1 1 0 0 0-1.414 0L.646 8.146a.5.5 0 0 0 .708.708L8 2.207l6.646 6.647a.5.5 0 0 0 .708-.708L13 5.793V2.5a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5v1.293z"/>
+  <path d="m8 3.293 4.712 4.712A4.5 4.5 0 0 0 8.758 15H3.5A1.5 1.5 0 0 1 2 13.5V9.293z"/>
+  <path d="M12.5 16a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7m-.646-4.854.646.647.646-.646a.5.5 0 0 1 .708.707l-.647.646.647.646a.5.5 0 0 1-.708.708l-.646-.647-.646.647a.5.5 0 0 1-.708-.707l.647-.647-.647-.646a.5.5 0 0 1 .708-.707Z"/>
+</svg>
+
+<h2>Bootstrap ile Kod Snippets Kullanarak Ekran Tasarımı </h2>
+
+
+<p> Bootstrap Sitesinde bulunan examples menüsüne tıklayarak sayfa tasarımları için hazırlanmış kod bloklarından seçtiğimizi sağ tık incele diyerek kapsayıcı  elemanı kopyalayıp sayfa kodumuzun ilgili kısmına yapıştırı içeriklerini düzenleyerek kullanabilmekteyiz.</p>
+
+<div class="d-flex flex-wrap align-items-center justify-content-center justify-content-lg-start">
+  <a href="/" class="d-flex align-items-center mb-2 mb-lg-0 text-white text-decoration-none">
+    <svg class="bi me-2" width="40" height="32" role="img" aria-label="Bootstrap"><use xlink:href="#bootstrap"></use></svg>
+  </a>
+
+  <ul class="nav col-12 col-lg-auto me-lg-auto mb-2 justify-content-center mb-md-0">
+    <li><a href="#" class="nav-link px-2 text-secondary">Home</a></li>
+    <li><a href="#" class="nav-link px-2 text-white">Features</a></li>
+    <li><a href="#" class="nav-link px-2 text-white">Pricing</a></li>
+    <li><a href="#" class="nav-link px-2 text-white">FAQs</a></li>
+    <li><a href="#" class="nav-link px-2 text-white">About</a></li>
+  </ul>
+
+  <form class="col-12 col-lg-auto mb-3 mb-lg-0 me-lg-3" role="search">
+    <input type="search" class="form-control form-control-dark text-bg-dark" placeholder="Search..." aria-label="Search">
+  </form>
+
+  <div class="text-end">
+    <button type="button" class="btn btn-outline-light me-2">Login</button>
+    <button type="button" class="btn btn-warning">Sign-up</button>
+  </div>
+</div>
+
+
+
+
+
+<div class="row align-items-center g-lg-5 py-5">
+  <div class="col-lg-7 text-center text-lg-start">
+    <h1 class="display-4 fw-bold lh-1 text-body-emphasis mb-3">Vertically centered hero sign-up form</h1>
+    <p class="col-lg-10 fs-4">Below is an example form built entirely with Bootstrap’s form controls. Each required form group has a validation state that can be triggered by attempting to submit the form without completing it.</p>
+  </div>
+  <div class="col-md-10 mx-auto col-lg-5">
+    <form class="p-4 p-md-5 border rounded-3 bg-body-tertiary">
+      <div class="form-floating mb-3">
+        <input type="email" class="form-control" id="floatingInput" placeholder="name@example.com">
+        <label for="floatingInput">Email address</label>
+      </div>
+      <div class="form-floating mb-3">
+        <input type="password" class="form-control" id="floatingPassword" placeholder="Password">
+        <label for="floatingPassword">Password</label>
+      </div>
+      <div class="checkbox mb-3">
+        <label>
+          <input type="checkbox" value="remember-me"> Remember me
+        </label>
+      </div>
+      <button class="w-100 btn btn-lg btn-primary" type="submit">Sign up</button>
+      <hr class="my-4">
+      <small class="text-body-secondary">By clicking Sign up, you agree to the terms of use.</small>
+    </form>
+  </div>
+</div>
+
+
+<main class="form-signin w-100 m-auto">
+  <form>
+    <img class="mb-4" src="/docs/5.3/assets/brand/bootstrap-logo.svg" alt="" width="72" height="57">
+    <h1 class="h3 mb-3 fw-normal">Please sign in</h1>
+
+    <div class="form-floating">
+      <input type="email" class="form-control" id="floatingInput" placeholder="name@example.com">
+      <label for="floatingInput">Email address</label>
+    </div>
+    <div class="form-floating">
+      <input type="password" class="form-control" id="floatingPassword" placeholder="Password">
+      <label for="floatingPassword">Password</label>
+    </div>
+
+    <div class="form-check text-start my-3">
+      <input class="form-check-input" type="checkbox" value="remember-me" id="flexCheckDefault">
+      <label class="form-check-label" for="flexCheckDefault">
+        Remember me
+      </label>
+    </div>
+    <button class="btn btn-primary w-100 py-2" type="submit">Sign in</button>
+    <p class="mt-5 mb-3 text-body-secondary">© 2017–2024</p>
+  </form>
+</main>
+
+
+
+
+
+
+
+
+    </div>
+    <script src="/BootstapEgitimi/bootstrap-5.3.3-dist 3/js/bootstrap.bundle.min.js"></script>
+    
+    <script>
+      const toastTrigger = document.getElementById('liveToastBtn')
+const toastLiveExample = document.getElementById('liveToast')
+
+if (toastTrigger) {
+  const toastBootstrap = bootstrap.Toast.getOrCreateInstance(toastLiveExample)
+  toastTrigger.addEventListener('click', () => {
+    toastBootstrap.show()
+  })
+}
+    </script>
+</body>
+</html>

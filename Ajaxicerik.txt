@@ -1,0 +1,8 @@
+    <h1>Konu15-Jquery-ajax</h1>
+    <p>AJAX, İnternet sayfalarında JavaScript ve XMLHTTP request kullanımı ile etkileşimili uygulamalar oluşturmamızı sağlayan yöntemin adıdır.</p>
+    <p>
+        Normalde form verileri tüm sayfayla birliktre sunucuya yollanırken AJAXDA sadece ilgili alan veya içindeki veriler sunucuya yollanır ve sunucudan dönen cevaba göre ekranda işlem yapmamızı sağlar.
+    </p>
+    <p>
+        AJAX uygulamamızda hızlanmaya ve veri kullanımını azaltmaya yardımcı olur.
+    </p>

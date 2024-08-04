@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Js Donguler</title>
+</head>
+<body>
+    <h1>Js Donguler</h1>
+    <h2>For döngüsü</h2>
+    <script>
+        for (var i = 0; i < 5; i++){
+            document.write("<h5>i nin değeri : " + i +"</h5>")
+        } // bu datayı ekrana yazdırmak gerekiyor 10 tane ürünü ekranda listeyele biliriz slideı ekranda sıralayabiliriz.
+    </script>
+    <hr>
+    <h2>While Döngüsü</h2> 
+    <script>
+        //* i değişkeni var  ve toplam değişkeni var  while döngüsü neye bakıyor şart içerisinde i nin değerini kontrol ediyor i nin değeri 0 0=5ten küçükse döngüye devam et i++ diyerek 1 arttırıyoruz ki sonsuz döngüye girmesin. İş bittikten sonrası da toplamıda ekrana yazdırıyoruz.
+        var i = 0 ; toplam = 0;
+        while (i < 5 ){
+            toplam += i;
+            document.write("<h5> i nin değeri : " + i + "</h5>")
+            i++
+
+            
+        }
+        document.write("<h5>toplam ın değeri : " + toplam + "</h5>")
+    </script>
+    <hr>
+     <h2>Do While Döngüsü</h2>
+     <script>
+        // önce işlemi yapıyor sonra şarta bakıyor 
+        var sayi = 5;
+        do {
+            document.write("<h5> sayinin değeri : " + sayi + "</h5>")
+        }while (sayi < 5);
+     </script>
+</body>
+</html>

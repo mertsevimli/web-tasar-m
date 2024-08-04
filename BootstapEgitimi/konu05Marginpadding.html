@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Konu 05 Margin Padding</title>
+    <link
+      rel="stylesheet"
+      href="/BootstapEgitimi/bootstrap-5.3.3-dist 3/css/bootstrap.min.css"
+    />
+  </head>
+  <body>
+    <div class="container">
+      <h1>Ders05 Margin Padding</h1>
+      <p>
+        Bootstrap de elemanların margin ve paddinglerini ayarlamak için classlar
+        bulunur
+        <br />.xs,sm,md,lg..ön takılarıyla kırılımlara göre de ayrı ayrı bu
+        boşluk classlarını kullanabilri.z
+      </p>
+      <h2>Margin- Dış Boşluk kullanımı</h2>
+      <div class="row">
+        <div class="col-4">
+            kolon 1
+        </div>
+        <div class="col-4 ms-auto" >
+            kolon 2 ms-auto classı margin startın kısaltması
+        </div>
+      </div>
+
+      <hr>
+      <div class="row">
+        <div class="col-4">
+            kolon 1
+        </div>
+        <div class="col-4 me-auto" >
+            kolon 2 me-auto classı margin ending kısaltması
+        </div>
+<div class="col-1">
+    kolon 3
+</div>
+<hr>
+<div class="row">
+    <div class="col-2">
+        2 birimlik ilk kolon
+    </div>
+    <div class="col-3 ms-5">
+        3 birimlik 2. kolon ms-5 margin start 5 birim boşluk  bırakır
+    </div>
+<hr>
+<div class="row">
+    <div class="col-2">
+        2 birimlik ilk kolon
+    </div>
+    <div class="col-3 ms-5 me-5">
+        3 birimlik 2. kolon ms-5 margin start 5 birim boşluk  bırakır.
+        <br>
+        ms: margin left, me : margin-right
+    </div>
+    <div class="col">
+        son kolon
+    </div>
+</div>
+<hr>
+<div class=" mt-1 mb-2 ms-3 me-5"> 
+    Bootstrapte bir kolona üstten margin vermek için mt-0 .. 5 arasında , <br>
+    alttan margin vermek için mb-0..5 arasında <br>
+    soldan margin vermek için ms-0..5 arasında <br>
+    sağdan margin vermek için me-0..5 arasında , class değeri verebiliriz.
+</div>
+
+<div class=" m-5">
+    eğer 4 yönden margin vereceksek 0..5 clasının
+</div>
+<div class="mx-5">
+mx-5 classı soldan ve sağdan 5 birimlik boşluk verir.mx-0-5 arasında değer alır.
+</div>
+
+<div class="my-5">
+    my-5 classı üsten ve altan 5 birimlik boşluk verir. my-0...5değer alır.
+    </div>
+    <h3 >Padding - iç Boşluk</h3>
+    <div class=" pt-1 pb-2 ps-3 pe-5"> 
+        Bootstrapte bir kolona üstten padding vermek için pt-0 .. 5 arasında , <br>
+        alttan padding vermek için pb-0..5 arasında <br>
+        soldan padding vermek için ps-0..5 arasında <br>
+        sağdan padding vermek için pe-0..5 arasında , class değeri verebiliriz.
+    </div>
+    
+    <div class=" p-5">
+        eğer 4 yönden padding vereceksek 0..5 clasının
+    </div>
+    <div class="px-5">
+    px-5 classı soldan ve sağdan 5 birimlik boşluk verir.px-0-5 arasında değer alır.
+    </div>
+    
+    <div class="py-5">
+        py-5 classı üsten ve altan 5 birimlik boşluk verir. py-0...5değer alır.
+        </div>
+<hr>
+<h2>Metin Hizalama</h2>
+<p class="text-center">
+    Text-center classı elementteki içeriği ortalamamıza sağlar
+</p>
+<p class="text-end">
+    text-end : sağa hizala
+</p>
+<p class="text- start">
+    text-start : sola hizala
+</p>
+<p class="text-center">
+    <img src="/Resimler/CEPAlogo.png" alt="" width="122px">
+</p>
+ <hr>
+ <h3>Resimleri Responsive hale getirme</h3>
+ <p>
+    Bootstrap de resimler için classlar mevcuttur <br>
+    img-fluid class ı resmi responsive hale getirir <br>
+    img-thumbnail classsı dışı çizgili küçük resim formatı verir.
+ </p>
+ <div class="row">
+    <div class="col-4">
+        <img src="/Resimler/bgVideo.jpg" class="img-fluid">
+
+    </div>
+    <div class="col-5">
+        <img src="/Resimler/infotechacademy_python_veribilimi_egitimi26.png" class="img-thumbnail">
+    </div>
+ </div>
+ <hr>
+ <h3>
+    Diğer Boyutlandırma Yöntemi
+ </h3>
+ <p>
+    w-25 : %25 <br>
+    w-50 : %50 <br>
+    w-75 : %75 <br>
+    w-100 : %100 <br>
+ </p>
+ <div class="row">
+    <div class="col-4">
+        <img src="/Resimler/bgVideo.jpg" class="w-100">
+
+    </div>
+    <div class="col-5">
+        <img src="/Resimler/infotechacademy_python_veribilimi_egitimi26.png" class="w-75">
+    </div>
+ </div>
+    </div>
+  </body>
+</html>

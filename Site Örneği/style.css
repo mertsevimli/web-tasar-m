@@ -1,0 +1,78 @@
+.container{
+  max-width: 1000px;
+  margin: auto;
+}
+header{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+ul#menu li{
+  display: inline;
+  padding: 1rem 1.8rem;
+  border-right: 1px solid #dedede;
+}
+ul#menu li:last-child{
+  border-right: none;
+}
+ul#menu li:hover{
+  background-color: orange;
+}
+a{
+  color: black;
+  text-decoration: none;
+}
+ul#menu li:hover{
+  color: white;
+}
+.row{
+  display: flex;
+}
+.flexWrap{
+  flex-wrap: wrap;
+}
+#neden{
+  background-color: #27354f;
+  padding: 5rem 0;
+  margin: 1.8rem 0;
+}
+.neden{
+  padding-left: 1.8rem;
+  color: white;
+}
+.kirmiziButon{
+  border-radius: 5px;
+  background-color: red;
+  color: white;
+  padding: 10px 25px;
+}
+.kirmiziButon:hover{
+  background-color: crimson;
+}
+form input{
+  width: 95%;
+  margin-right: 1rem;
+  min-height: 35px;
+}
+form textarea{
+  width: 98%;
+}
+footer .row > div{
+  width: 25%;
+}
+.footerMenu a{
+  display: block;
+  color: #6b6b6b;
+  margin-bottom: 7px;
+}
+.footerMenu a:hover{
+  color: red;
+
+}
+/* img{
+  filter: drop-shadow(2px 2px 20px cyan);
+} */
+/* classlara nokta ile erişirsin.
+
+listemelerein id sine ulasmak için ul#menu (verdiğimiz isim) sonra li {}
+hover üzerine geldiğinde anlamına geliyor.*/

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JS String Metodları</title>
+</head>
+<body>
+    <h1> Js String Metotları</h1>
+    <script>
+        var baslik = "String nesnesine ait metotlar"
+        document.write("baslik = " + baslik, "<br>")
+        document.write("baslik.length = " + baslik.length, "<br>")// kaç tane karakter var onu söylüyor
+        document.write("baslik.bold = " + baslik.bold(), "<br>")
+        document.write("baslik.italics = " + baslik.italics(), "<br>")
+        document.write("baslik.charAt(7) = " + baslik.charAt(7), "<br>")
+
+        document.write("baslik.toLowerCase() = " + baslik.toLowerCase(), "<br>") // metni küçük harfe çevirdi
+        document.write("baslik.toLocaleLowerCase() = " + baslik.toLocaleLowerCase(), "<br>")// localizasyona bakarak küçük harfe çeviriyor
+        document.write("baslik.toUpperCase() = " + baslik.toUpperCase(), "<br>")
+        document.write("baslik.toLocaleUpperCase() = " + baslik.toLocaleUpperCase(), "<br>")// büyük yapıyor bunlar yazıyı
+        document.write("baslik.slice(7) = " + baslik.slice(7), "<br>")// nesnesi ait kısmını aldı 7 tane karakteri aldı geri kalanını veri
+        document.write("baslik.slice(7, 15) = " + baslik.slice(7, 15), "<br>")// ilk 7 yi atıyor ordan geri kalanını bize veriyor 15 e kadar
+        document.write("baslik.substring(7) = " + baslik.substring(7), "<br>")// ilk 7 karakteri getiriyor
+        document.write("baslik.substring(7, 15) = " + baslik.substring(7, 15), "<br>")
+        document.write("baslik.replace(' ', '-') = " + baslik.replace(' ', '-'), "<br>")// boşluk karakterini aralarına - koyuyor
+        document.write("baslik.concat(' ', '-concat ile ekleme') = " + baslik.concat(' ', '-concat ile ekleme'), "<br>")
+        document.write("baslik.split(' ') = " + baslik.split(' ')) // içerideki boşluklara virgül veriyor metni parçalara ayırıyor.
+    </script>
+</body>
+</html>

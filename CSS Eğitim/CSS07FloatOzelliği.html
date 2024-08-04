@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Css Float Özelliği</title>
+  </head>
+  <body>
+    <h1>Css Float Özelliği</h1>
+    <div>
+      <div style="background-color: green">css float Özelliği</div>
+      <div
+        style="float: left; background-color: yellowgreen; border: 1px solid"
+      >
+        float : left özelliği verilen div sola yapışır. İçeriği kadar yer
+        kaplar, sonrasında gelen element buradan hizalamak akışa katılır.
+      </div>
+      <div>Float : left verilen elementten sonraki</div>
+      <div>float : left verilen elementten sonraki 2.</div>
+      <div>float: left verilen elementten sonraki 3.</div>
+    </div>
+    <hr />
+    <br />
+
+    <div>
+      <div style="float: right; background-color: yellow; border: 1px solid">
+        css float RİGHT Özelliği
+      </div>
+      <div style="background-color: green">
+        float : Right özelliği verilen div sola yapışır. İçeriği kadar yer
+        kaplar, sonrasında gelen element buradan hizalamak akışa katılır.
+      </div>
+      <div>Float : right verilen elementten sonraki</div>
+      <div>float : right verilen elementten sonraki 2.</div>
+      <div>float: right verilen elementten sonraki 3.</div>
+    </div>
+
+    <div id="urunler">
+      <div>1</div>
+      <div>2</div>
+      <div>3</div>
+      <div>4</div>
+      <div>5</div>
+    </div>
+    <style>
+      #urunler div {
+        float: right;
+        padding: 3rem;
+        background-color: bisque;
+      }
+      /* .row{
+    clear: both; margin: auto;max-width: 1000px;
+} */
+
+      .col {
+        float: left;
+      }
+    </style>
+
+    <div class="row" style="clear: right; margin: auto; width: 1000px">
+      <div class="col">
+        <img
+          src="/Resimler/flutter_kursu_egitimi_mobil_uygulama_infotech_academy23.png"
+          width="333"
+        />
+        <h3 style="text-align: center">Asp.Net Core Mvc Eğitimi</h3>
+      </div>
+      <div class="col">
+        <img
+          src="/Resimler/infotechacademy_python_veribilimi_egitimi26.png"
+          width="333"
+        />
+        <h3 style="text-align: center">Asp.net Core Mvc E ticaret Eğitimi</h3>
+      </div>
+      <div class="col">
+        <img
+          src="/Resimler/flutter_kursu_egitimi_mobil_uygulama_infotech_academy23.png"
+          width="333"
+        />
+        <h3 style="text-align: center">React Falan Filan</h3>
+      </div>
+    </div>
+    <br />
+    <hr />
+
+    <div style="clear: both">
+      <h3>Float-Clear</h3>
+      <p>Float özelliğini kaldırmamız gereken durumlarda kullanılır.</p>
+
+      <div style="float: left; background-color: bisque">float : left divi</div>
+      <div style="background-color: brown; clear: both">
+        float leftden sonraki div
+      </div>
+      <p>
+        Float özelliği uygulanmış bir elementten sonraki elementi yapışma
+        olayından kurtarmak için clear:left - right - both seçeneklerinden
+        birini kullanırız.
+        <br />
+        clear:left - float left in etkisini kaldırır.
+        <br />
+        clear:right - float right ın etkisini kaldırır.
+        <br />
+        clear : both - hem float leftin hemde float : right in etkisini
+        kaldırır.
+      </p>
+    </div>
+    <div id="kapsayıcı">
+      <div id="resim">
+        <img src="/Resimler/infotechacademy_python_veribilimi_egitimi26.png" width="auto" height="150" />
+      </div>
+      <div id="yazi">
+        <p>
+          Float özelliği uygulanmış bir elementten sonraki elementi yapışma
+          olayından kurtarmak için clear:left - right - both seçeneklerinden
+          birini kullanırız.
+          <br />
+          clear:left - float left in etkisini kaldırır.
+          <br />
+          clear:right - float right ın etkisini kaldırır.
+          <br />
+          clear : both - hem float leftin hemde float : right in etkisini
+          kaldırır.
+        </p>
+      </div>
+    
+    </div>
+    <style>
+        #resim{
+            float: right;
+            padding: 1px;
+        }
+        #kapsayıcı{
+            width: 500px;
+            background-color: antiquewhite;
+            border: 5px outset rebeccapurple;
+            padding: 1em;
+          
+            
+
+            /* padding : iç boşluk
+            margin : dış boşluk */
+        }
+    </style>
+  </body>
+</html>

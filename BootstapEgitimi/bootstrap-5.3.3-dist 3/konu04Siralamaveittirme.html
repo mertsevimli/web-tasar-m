@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bootstrap de öğeleri Sıralama ve ittirme   </title>
+    <link
+    rel="stylesheet"
+    href="/BootstapEgitimi/bootstrap-5.3.3-dist 3/css/bootstrap.min.css"
+  />
+
+</head>
+<body>
+    <div class="container">
+    <h1>BootStrapte de öğeleri sıralama ve ittirme</h1>
+    <p>
+        Kolonları sıralamak için order-0 ile order-5 arasındaki classları kullanabiliriz.
+    </p>
+    <div class="row ">
+       <p>
+        
+       </p>
+        <div class="col">col1</div>
+        <div class="col order-5">col 2</div>
+        <div class="col order-3">col 3</div>
+        <div class="col order-2">col 4</div>
+        <div class="col">col 5</div>
+        <div class="col order-1">col 6</div>
+</div>
+<hr>
+<h2>Kolonları ittirme </h2>
+<div class="row">
+    <div class="col-md-4">
+        col-md-4 classlo div. Bu div md ölçüsü ve üzeri cihazlarda 4 birimlik yer kaplar.
+    </div>
+    <div class="col-md-3 offset-md-3">
+        Bootstrap offset classını kullanarak kolonları soldan sağa doğru ittirebiliriz.
+        <br>
+        cold-md-3 class md ekranlarda 3 birim genişlik veriri,offset-md-3 ise md ekranlardan itibaren kolonu 3 birim ileri ittirir.
+    </div>
+    <p>
+        offset clası her kırılım için 0 ile 11 arası değer alarak çalışır.
+    </p>
+</div>
+</body>
+</html>
