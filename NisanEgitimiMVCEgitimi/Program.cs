@@ -9,19 +9,19 @@ var app = builder.Build();// Yukardaki ayarlarla bir uygulama örneği oluşturu
 if (!app.Environment.IsDevelopment()) // uygulama çalışma ortamı Gelirtirme  değilse
 {
     app.UseExceptionHandler("/Home/Error");
-    //oluşan hataları yakala ve uygulamayı / 
+    //oluşan hataları yakala ve uygulamayı / Home/Error adresine yönlendirir. (home : controller, Error : Action)
     app.UseHsts();
 }
 
 app.UseHttpsRedirection();
-app.UseStaticFiles();
+app.UseStaticFiles();// uygulamada statik dosyaları yani css js resim dosyalarını çalıştırmayı destekler
 
-app.UseRouting();
+app.UseRouting();//uygulamada rotuin yapısını kullanarak coller ve action eşleşmesini destekle
 
 app.UseAuthorization();
 
-app.MapControllerRoute(
-    name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}");
+app.MapControllerRoute(// uygulamada varsayılan Route yapılandırmasını aktif et 
+    name: "default",// adı default olsun
+    pattern: "{controller=Home}/{action=Index}/{id?}");// uygulamaya controller ve action belirtilmeden gelinirse varsayılan olarak home controllerdaki Index isimli actionu çalıştır. Burada id ?  parametresi ile parametrik olarak ifade edilmiştir. Yani gelmeyedebilir.
 
-app.Run();
+app.Run();// uygulamayı yukarıdaki tüm ayarları kullarak çalıştır.
