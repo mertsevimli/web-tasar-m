@@ -18,6 +18,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = /Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim
 build_property._RazorSourceGeneratorDebug = 
 
+[/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/Views/Anasayfa/Ders12OrnekTasarim.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQW5hc2F5ZmEvRGVyczEyT3JuZWtUYXNhcmltLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/Views/Anasayfa/Hakkimizda.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQW5hc2F5ZmEvSGFra2ltaXpkYS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -44,6 +48,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/Views/Shared/_Layout2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/Views/Shared/_ValidationScriptsPartial.cshtml]

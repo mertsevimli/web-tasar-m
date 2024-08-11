@@ -5,6 +5,1094 @@
       "PackagePath": "staticwebassets/MVCEgitim.bundle.scp.css"
     },
     {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/Images/BS-Logo-Final copy.png",
+      "PackagePath": "staticwebassets/Images/BS-Logo-Final copy.png"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/Images/Blue Illustration Minimalist Announcement Exams Student Instagram Post.png",
+      "PackagePath": "staticwebassets/Images/Blue Illustration Minimalist Announcement Exams Student Instagram Post.png"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/Images/CEPAlogo.png",
+      "PackagePath": "staticwebassets/Images/CEPAlogo.png"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/Images/bgVideo.jpg",
+      "PackagePath": "staticwebassets/Images/bgVideo.jpg"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/Images/cropped-favicon-32x32.png",
+      "PackagePath": "staticwebassets/Images/cropped-favicon-32x32.png"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/Images/favicon.ico",
+      "PackagePath": "staticwebassets/Images/favicon.ico"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/Images/flutter_kursu_egitimi_mobil_uygulama_infotech_academy23.png",
+      "PackagePath": "staticwebassets/Images/flutter_kursu_egitimi_mobil_uygulama_infotech_academy23.png"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/Images/infotechacademy_python_veribilimi_egitimi26.png",
+      "PackagePath": "staticwebassets/Images/infotechacademy_python_veribilimi_egitimi26.png"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/Images/infotechacademyik (1).jpg",
+      "PackagePath": "staticwebassets/Images/infotechacademyik (1).jpg"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/Images/logoInfotechAcademy copy.png",
+      "PackagePath": "staticwebassets/Images/logoInfotechAcademy copy.png"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/Images/logoInfotechAcademy.png",
+      "PackagePath": "staticwebassets/Images/logoInfotechAcademy.png"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/Images/pexels-asadphoto-1320684.jpg",
+      "PackagePath": "staticwebassets/Images/pexels-asadphoto-1320684.jpg"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/Images/pexels-freestockpro-320260.jpg",
+      "PackagePath": "staticwebassets/Images/pexels-freestockpro-320260.jpg"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/Images/pexels-pixabay-163864.jpg",
+      "PackagePath": "staticwebassets/Images/pexels-pixabay-163864.jpg"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/Images/pexels-pixabay-164041.jpg",
+      "PackagePath": "staticwebassets/Images/pexels-pixabay-164041.jpg"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/Images/pexels-pixabay-235990.jpg",
+      "PackagePath": "staticwebassets/Images/pexels-pixabay-235990.jpg"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/Images/pexels-pixabay-289586.jpg",
+      "PackagePath": "staticwebassets/Images/pexels-pixabay-289586.jpg"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/Images/unsplash-photo-1.jpg",
+      "PackagePath": "staticwebassets/Images/unsplash-photo-1.jpg"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/.gitattributes",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/.gitattributes"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/.gitignore",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/.gitignore"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/.travis.yml",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/.travis.yml"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/CONTRIBUTING.md",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/CONTRIBUTING.md"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/Gruntfile.js",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/Gruntfile.js"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/ISSUE_TEMPLATE.md",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/ISSUE_TEMPLATE.md"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/LICENSE",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/README.md",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/README.md"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/ROADMAP.md",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/ROADMAP.md"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/_config.json",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/_config.json"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/bower.json",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/bower.json"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/dist/LICENSE",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/dist"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/dist/README.md",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/dist/README.md"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/dist/assets/ajax-loader.gif",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/dist/assets/ajax-loader.gif"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/dist/assets/owl.carousel.css",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/dist/assets/owl.carousel.css"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/dist/assets/owl.carousel.min.css",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/dist/assets/owl.carousel.min.css"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/dist/assets/owl.theme.default.css",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/dist/assets/owl.theme.default.css"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/dist/assets/owl.theme.default.min.css",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/dist/assets/owl.theme.default.min.css"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/dist/assets/owl.theme.green.css",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/dist/assets/owl.theme.green.css"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/dist/assets/owl.theme.green.min.css",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/dist/assets/owl.theme.green.min.css"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/dist/assets/owl.video.play.png",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/dist/assets/owl.video.play.png"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/dist/owl.carousel.js",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/dist/owl.carousel.js"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/dist/owl.carousel.min.js",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/dist/owl.carousel.min.js"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs/assets/css/animate.css",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs/assets/css/animate.css"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs/assets/css/docs.theme.min.css",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs/assets/css/docs.theme.min.css"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs/assets/img/bird_blue_32.png",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs/assets/img/bird_blue_32.png"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs/assets/img/download.png",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs/assets/img/download.png"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs/assets/img/feature-drag.png",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs/assets/img/feature-drag.png"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs/assets/img/feature-modern.png",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs/assets/img/feature-modern.png"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs/assets/img/feature-module.png",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs/assets/img/feature-module.png"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs/assets/img/feature-options.png",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs/assets/img/feature-options.png"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs/assets/img/feature-responsive.png",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs/assets/img/feature-responsive.png"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs/assets/img/feature-zombie.png",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs/assets/img/feature-zombie.png"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs/assets/img/owl-logo.png",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs/assets/img/owl-logo.png"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs/assets/img/twitter_25.png",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs/assets/img/twitter_25.png"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs/assets/js/app.js",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs/assets/js/app.js"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs/assets/js/foundation.min.js",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs/assets/js/foundation.min.js"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs/assets/owlcarousel/README.md",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs/assets/owlcarousel/README.md"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs/assets/owlcarousel/assets/ajax-loader.gif",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs/assets/owlcarousel/assets/ajax-loader.gif"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs/assets/owlcarousel/assets/owl.carousel.css",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs/assets/owlcarousel/assets/owl.carousel.css"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs/assets/owlcarousel/assets/owl.carousel.min.css",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs/assets/owlcarousel/assets/owl.carousel.min.css"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs/assets/owlcarousel/assets/owl.theme.default.css",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs/assets/owlcarousel/assets/owl.theme.default.css"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs/assets/owlcarousel/assets/owl.theme.default.min.css",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs/assets/owlcarousel/assets/owl.theme.default.min.css"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs/assets/owlcarousel/assets/owl.theme.green.css",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs/assets/owlcarousel/assets/owl.theme.green.css"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs/assets/owlcarousel/assets/owl.theme.green.min.css",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs/assets/owlcarousel/assets/owl.theme.green.min.css"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs/assets/owlcarousel/assets/owl.video.play.png",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs/assets/owlcarousel/assets/owl.video.play.png"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs/assets/owlcarousel/owl.carousel.js",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs/assets/owlcarousel/owl.carousel.js"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs/assets/owlcarousel/owl.carousel.min.js",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs/assets/owlcarousel/owl.carousel.min.js"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs/assets/vendors/foundation.min.js",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs/assets/vendors/foundation.min.js"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs/assets/vendors/highlight.js",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs/assets/vendors/highlight.js"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs/assets/vendors/jquery.min.js",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs/assets/vendors/jquery.min.js"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs/assets/vendors/jquery.min.map",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs/assets/vendors/jquery.min.map"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs/assets/vendors/jquery.mousewheel.min.js",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs/assets/vendors/jquery.mousewheel.min.js"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs/demos/animate.html",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs/demos/animate.html"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs/demos/autoheight.html",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs/demos/autoheight.html"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs/demos/autoplay.html",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs/demos/autoplay.html"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs/demos/autowidth.html",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs/demos/autowidth.html"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs/demos/basic.html",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs/demos/basic.html"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs/demos/center.html",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs/demos/center.html"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs/demos/demos.html",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs/demos/demos.html"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs/demos/events.html",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs/demos/events.html"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs/demos/lazyLoad.html",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs/demos/lazyLoad.html"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs/demos/merge.html",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs/demos/merge.html"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs/demos/mousewheel.html",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs/demos/mousewheel.html"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs/demos/responsive.html",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs/demos/responsive.html"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs/demos/rtl.html",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs/demos/rtl.html"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs/demos/stagepadding.html",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs/demos/stagepadding.html"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs/demos/test.html",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs/demos/test.html"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs/demos/urlhashnav.html",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs/demos/urlhashnav.html"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs/demos/video.html",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs/demos/video.html"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs/docs/api-classes.html",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs/docs/api-classes.html"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs/docs/api-events.html",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs/docs/api-events.html"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs/docs/api-options.html",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs/docs/api-options.html"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs/docs/dev-buildin-plugins.html",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs/docs/dev-buildin-plugins.html"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs/docs/dev-external.html",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs/docs/dev-external.html"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs/docs/dev-plugin-api.html",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs/docs/dev-plugin-api.html"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs/docs/dev-styles.html",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs/docs/dev-styles.html"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs/docs/started-faq.html",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs/docs/started-faq.html"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs/docs/started-installation.html",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs/docs/started-installation.html"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs/docs/started-welcome.html",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs/docs/started-welcome.html"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs/docs/support-changelog.html",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs/docs/support-changelog.html"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs/docs/support-contact.html",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs/docs/support-contact.html"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs/docs/support-contributing.html",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs/docs/support-contributing.html"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs/index.html",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs/index.html"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs_src/assets/css/animate.css",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs_src/assets/css/animate.css"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs_src/assets/img/bird_blue_32.png",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs_src/assets/img/bird_blue_32.png"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs_src/assets/img/download.png",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs_src/assets/img/download.png"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs_src/assets/img/feature-drag.png",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs_src/assets/img/feature-drag.png"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs_src/assets/img/feature-modern.png",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs_src/assets/img/feature-modern.png"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs_src/assets/img/feature-module.png",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs_src/assets/img/feature-module.png"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs_src/assets/img/feature-options.png",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs_src/assets/img/feature-options.png"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs_src/assets/img/feature-responsive.png",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs_src/assets/img/feature-responsive.png"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs_src/assets/img/feature-zombie.png",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs_src/assets/img/feature-zombie.png"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs_src/assets/img/owl-logo.png",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs_src/assets/img/owl-logo.png"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs_src/assets/img/twitter_25.png",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs_src/assets/img/twitter_25.png"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs_src/assets/js/app.js",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs_src/assets/js/app.js"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs_src/assets/js/foundation.min.js",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs_src/assets/js/foundation.min.js"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs_src/assets/scss/_settings.scss",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs_src/assets/scss/_settings.scss"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs_src/assets/scss/custom.scss",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs_src/assets/scss/custom.scss"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs_src/assets/scss/demos.scss",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs_src/assets/scss/demos.scss"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs_src/assets/scss/docs.scss",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs_src/assets/scss/docs.scss"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs_src/assets/scss/docs.theme.scss",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs_src/assets/scss/docs.theme.scss"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs_src/assets/scss/highlight.scss",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs_src/assets/scss/highlight.scss"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs_src/assets/vendors/foundation.min.js",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs_src/assets/vendors/foundation.min.js"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs_src/assets/vendors/highlight.js",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs_src/assets/vendors/highlight.js"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs_src/assets/vendors/jquery.min.js",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs_src/assets/vendors/jquery.min.js"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs_src/assets/vendors/jquery.min.map",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs_src/assets/vendors/jquery.min.map"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs_src/assets/vendors/jquery.mousewheel.min.js",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs_src/assets/vendors/jquery.mousewheel.min.js"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs_src/data/classes.json",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs_src/data/classes.json"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs_src/data/events.json",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs_src/data/events.json"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs_src/data/features.json",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs_src/data/features.json"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs_src/data/options.json",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs_src/data/options.json"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs_src/helpers/modulo.js",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs_src/helpers/modulo.js"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs_src/helpers/test.js",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs_src/helpers/test.js"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs_src/templates/layouts/demos.hbs",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs_src/templates/layouts/demos.hbs"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs_src/templates/layouts/docs.hbs",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs_src/templates/layouts/docs.hbs"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs_src/templates/layouts/home.hbs",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs_src/templates/layouts/home.hbs"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs_src/templates/pages/demos/animate.hbs",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs_src/templates/pages/demos/animate.hbs"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs_src/templates/pages/demos/autoheight.hbs",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs_src/templates/pages/demos/autoheight.hbs"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs_src/templates/pages/demos/autoplay.hbs",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs_src/templates/pages/demos/autoplay.hbs"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs_src/templates/pages/demos/autowidth.hbs",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs_src/templates/pages/demos/autowidth.hbs"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs_src/templates/pages/demos/basic.hbs",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs_src/templates/pages/demos/basic.hbs"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs_src/templates/pages/demos/center.hbs",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs_src/templates/pages/demos/center.hbs"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs_src/templates/pages/demos/demos.hbs",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs_src/templates/pages/demos/demos.hbs"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs_src/templates/pages/demos/events.hbs",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs_src/templates/pages/demos/events.hbs"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs_src/templates/pages/demos/lazyLoad.hbs",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs_src/templates/pages/demos/lazyLoad.hbs"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs_src/templates/pages/demos/merge.hbs",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs_src/templates/pages/demos/merge.hbs"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs_src/templates/pages/demos/mousewheel.hbs",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs_src/templates/pages/demos/mousewheel.hbs"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs_src/templates/pages/demos/responsive.hbs",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs_src/templates/pages/demos/responsive.hbs"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs_src/templates/pages/demos/rtl.hbs",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs_src/templates/pages/demos/rtl.hbs"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs_src/templates/pages/demos/stagepadding.hbs",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs_src/templates/pages/demos/stagepadding.hbs"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs_src/templates/pages/demos/test.hbs",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs_src/templates/pages/demos/test.hbs"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs_src/templates/pages/demos/urlhashnav.hbs",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs_src/templates/pages/demos/urlhashnav.hbs"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs_src/templates/pages/demos/video.hbs",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs_src/templates/pages/demos/video.hbs"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs_src/templates/pages/docs/api-classes.hbs",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs_src/templates/pages/docs/api-classes.hbs"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs_src/templates/pages/docs/api-events.hbs",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs_src/templates/pages/docs/api-events.hbs"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs_src/templates/pages/docs/api-options.hbs",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs_src/templates/pages/docs/api-options.hbs"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs_src/templates/pages/docs/dev-buildin-plugins.hbs",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs_src/templates/pages/docs/dev-buildin-plugins.hbs"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs_src/templates/pages/docs/dev-external.hbs",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs_src/templates/pages/docs/dev-external.hbs"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs_src/templates/pages/docs/dev-plugin-api.hbs",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs_src/templates/pages/docs/dev-plugin-api.hbs"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs_src/templates/pages/docs/dev-styles.hbs",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs_src/templates/pages/docs/dev-styles.hbs"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs_src/templates/pages/docs/started-faq.hbs",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs_src/templates/pages/docs/started-faq.hbs"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs_src/templates/pages/docs/started-installation.hbs",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs_src/templates/pages/docs/started-installation.hbs"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs_src/templates/pages/docs/started-welcome.hbs",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs_src/templates/pages/docs/started-welcome.hbs"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs_src/templates/pages/docs/support-changelog.hbs",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs_src/templates/pages/docs/support-changelog.hbs"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs_src/templates/pages/docs/support-contact.hbs",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs_src/templates/pages/docs/support-contact.hbs"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs_src/templates/pages/docs/support-contributing.hbs",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs_src/templates/pages/docs/support-contributing.hbs"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs_src/templates/pages/index.hbs",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs_src/templates/pages/index.hbs"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs_src/templates/partials/footer.hbs",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs_src/templates/partials/footer.hbs"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs_src/templates/partials/head.hbs",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs_src/templates/partials/head.hbs"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs_src/templates/partials/header.hbs",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs_src/templates/partials/header.hbs"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs_src/templates/partials/home-carousel.hbs",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs_src/templates/partials/home-carousel.hbs"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs_src/templates/partials/home-features.hbs",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs_src/templates/partials/home-features.hbs"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs_src/templates/partials/home-hero.hbs",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs_src/templates/partials/home-hero.hbs"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs_src/templates/partials/home-teaser-text.hbs",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs_src/templates/partials/home-teaser-text.hbs"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs_src/templates/partials/javascripts.hbs",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs_src/templates/partials/javascripts.hbs"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs_src/templates/partials/releated-docs.hbs",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs_src/templates/partials/releated-docs.hbs"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs_src/templates/partials/sidenav-docs.hbs",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs_src/templates/partials/sidenav-docs.hbs"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs_src/templates/partials/title.hbs",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs_src/templates/partials/title.hbs"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/docs_src/templates/partials/vendors.hbs",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/docs_src/templates/partials/vendors.hbs"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/package-lock.json",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/package-lock.json"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/package.json",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/package.json"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/src/img/ajax-loader.gif",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/src/img/ajax-loader.gif"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/src/img/owl.video.play.png",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/src/img/owl.video.play.png"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/src/js/.jscsrc",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/src/js/.jscsrc"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/src/js/.jshintrc",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/src/js/.jshintrc"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/src/js/owl.animate.js",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/src/js/owl.animate.js"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/src/js/owl.autoheight.js",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/src/js/owl.autoheight.js"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/src/js/owl.autoplay.js",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/src/js/owl.autoplay.js"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/src/js/owl.autorefresh.js",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/src/js/owl.autorefresh.js"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/src/js/owl.carousel.js",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/src/js/owl.carousel.js"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/src/js/owl.hash.js",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/src/js/owl.hash.js"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/src/js/owl.lazyload.js",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/src/js/owl.lazyload.js"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/src/js/owl.navigation.js",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/src/js/owl.navigation.js"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/src/js/owl.support.js",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/src/js/owl.support.js"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/src/js/owl.support.modernizr.js",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/src/js/owl.support.modernizr.js"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/src/js/owl.video.js",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/src/js/owl.video.js"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/src/scss/_animate.scss",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/src/scss/_animate.scss"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/src/scss/_autoheight.scss",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/src/scss/_autoheight.scss"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/src/scss/_core.scss",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/src/scss/_core.scss"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/src/scss/_lazyload.scss",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/src/scss/_lazyload.scss"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/src/scss/_theme.default.scss",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/src/scss/_theme.default.scss"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/src/scss/_theme.green.scss",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/src/scss/_theme.green.scss"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/src/scss/_theme.scss",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/src/scss/_theme.scss"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/src/scss/_video.scss",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/src/scss/_video.scss"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/src/scss/owl.carousel.scss",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/src/scss/owl.carousel.scss"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/src/scss/owl.theme.default.scss",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/src/scss/owl.theme.default.scss"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/src/scss/owl.theme.green.scss",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/src/scss/owl.theme.green.scss"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/test/index.html",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/test/index.html"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/test/unit/autoplay.js",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/test/unit/autoplay.js"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/test/unit/core.js",
+      "PackagePath": "staticwebassets/OwlCarousel2-2.3.4/test/unit/core.js"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/Resimler/BS-Logo-Final copy.png",
+      "PackagePath": "staticwebassets/Resimler/BS-Logo-Final copy.png"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/Resimler/Blue Illustration Minimalist Announcement Exams Student Instagram Post.png",
+      "PackagePath": "staticwebassets/Resimler/Blue Illustration Minimalist Announcement Exams Student Instagram Post.png"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/Resimler/CEPAlogo.png",
+      "PackagePath": "staticwebassets/Resimler/CEPAlogo.png"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/Resimler/bgVideo.jpg",
+      "PackagePath": "staticwebassets/Resimler/bgVideo.jpg"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/Resimler/cropped-favicon-32x32.png",
+      "PackagePath": "staticwebassets/Resimler/cropped-favicon-32x32.png"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/Resimler/favicon.ico",
+      "PackagePath": "staticwebassets/Resimler/favicon.ico"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/Resimler/flutter_kursu_egitimi_mobil_uygulama_infotech_academy23.png",
+      "PackagePath": "staticwebassets/Resimler/flutter_kursu_egitimi_mobil_uygulama_infotech_academy23.png"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/Resimler/infotechacademy_python_veribilimi_egitimi26.png",
+      "PackagePath": "staticwebassets/Resimler/infotechacademy_python_veribilimi_egitimi26.png"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/Resimler/logoInfotechAcademy.png",
+      "PackagePath": "staticwebassets/Resimler/logoInfotechAcademy.png"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/Resimler/pexels-asadphoto-1320684.jpg",
+      "PackagePath": "staticwebassets/Resimler/pexels-asadphoto-1320684.jpg"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/Resimler/pexels-freestockpro-320260.jpg",
+      "PackagePath": "staticwebassets/Resimler/pexels-freestockpro-320260.jpg"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/Resimler/pexels-pixabay-163864.jpg",
+      "PackagePath": "staticwebassets/Resimler/pexels-pixabay-163864.jpg"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/Resimler/pexels-pixabay-164041.jpg",
+      "PackagePath": "staticwebassets/Resimler/pexels-pixabay-164041.jpg"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/Resimler/pexels-pixabay-235990.jpg",
+      "PackagePath": "staticwebassets/Resimler/pexels-pixabay-235990.jpg"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/Resimler/pexels-pixabay-289586.jpg",
+      "PackagePath": "staticwebassets/Resimler/pexels-pixabay-289586.jpg"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/Resimler/unsplash-photo-1.jpg",
+      "PackagePath": "staticwebassets/Resimler/unsplash-photo-1.jpg"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/Scripts/jquery-3.7.1.min.js",
+      "PackagePath": "staticwebassets/Scripts/jquery-3.7.1.min.js"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/Scripts/site.js",
+      "PackagePath": "staticwebassets/Scripts/site.js"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/bootstrap-5.3.3-dist 3/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/bootstrap-5.3.3-dist 3/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/bootstrap-5.3.3-dist 3/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/bootstrap-5.3.3-dist 3/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/bootstrap-5.3.3-dist 3/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/bootstrap-5.3.3-dist 3/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/bootstrap-5.3.3-dist 3/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/bootstrap-5.3.3-dist 3/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/bootstrap-5.3.3-dist 3/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/bootstrap-5.3.3-dist 3/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/bootstrap-5.3.3-dist 3/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/bootstrap-5.3.3-dist 3/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/bootstrap-5.3.3-dist 3/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/bootstrap-5.3.3-dist 3/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/bootstrap-5.3.3-dist 3/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/bootstrap-5.3.3-dist 3/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/bootstrap-5.3.3-dist 3/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/bootstrap-5.3.3-dist 3/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/bootstrap-5.3.3-dist 3/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/bootstrap-5.3.3-dist 3/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/bootstrap-5.3.3-dist 3/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/bootstrap-5.3.3-dist 3/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/bootstrap-5.3.3-dist 3/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/bootstrap-5.3.3-dist 3/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/bootstrap-5.3.3-dist 3/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/bootstrap-5.3.3-dist 3/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/bootstrap-5.3.3-dist 3/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/bootstrap-5.3.3-dist 3/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/bootstrap-5.3.3-dist 3/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/bootstrap-5.3.3-dist 3/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/bootstrap-5.3.3-dist 3/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/bootstrap-5.3.3-dist 3/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/bootstrap-5.3.3-dist 3/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/bootstrap-5.3.3-dist 3/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/bootstrap-5.3.3-dist 3/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/bootstrap-5.3.3-dist 3/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/bootstrap-5.3.3-dist 3/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/bootstrap-5.3.3-dist 3/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/bootstrap-5.3.3-dist 3/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/bootstrap-5.3.3-dist 3/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/bootstrap-5.3.3-dist 3/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/bootstrap-5.3.3-dist 3/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/bootstrap-5.3.3-dist 3/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/bootstrap-5.3.3-dist 3/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/bootstrap-5.3.3-dist 3/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/bootstrap-5.3.3-dist 3/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/bootstrap-5.3.3-dist 3/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/bootstrap-5.3.3-dist 3/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/bootstrap-5.3.3-dist 3/css/bootstrap.css",
+      "PackagePath": "staticwebassets/bootstrap-5.3.3-dist 3/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/bootstrap-5.3.3-dist 3/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/bootstrap-5.3.3-dist 3/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/bootstrap-5.3.3-dist 3/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/bootstrap-5.3.3-dist 3/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/bootstrap-5.3.3-dist 3/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/bootstrap-5.3.3-dist 3/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/bootstrap-5.3.3-dist 3/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/bootstrap-5.3.3-dist 3/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/bootstrap-5.3.3-dist 3/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/bootstrap-5.3.3-dist 3/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/bootstrap-5.3.3-dist 3/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/bootstrap-5.3.3-dist 3/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/bootstrap-5.3.3-dist 3/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/bootstrap-5.3.3-dist 3/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/bootstrap-5.3.3-dist 3/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/bootstrap-5.3.3-dist 3/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/bootstrap-5.3.3-dist 3/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/bootstrap-5.3.3-dist 3/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/bootstrap-5.3.3-dist 3/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/bootstrap-5.3.3-dist 3/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/bootstrap-5.3.3-dist 3/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/bootstrap-5.3.3-dist 3/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/bootstrap-5.3.3-dist 3/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/bootstrap-5.3.3-dist 3/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/bootstrap-5.3.3-dist 3/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/bootstrap-5.3.3-dist 3/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/bootstrap-5.3.3-dist 3/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/bootstrap-5.3.3-dist 3/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/bootstrap-5.3.3-dist 3/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/bootstrap-5.3.3-dist 3/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/bootstrap-5.3.3-dist 3/js/bootstrap.js",
+      "PackagePath": "staticwebassets/bootstrap-5.3.3-dist 3/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/bootstrap-5.3.3-dist 3/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/bootstrap-5.3.3-dist 3/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/bootstrap-5.3.3-dist 3/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/bootstrap-5.3.3-dist 3/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/bootstrap-5.3.3-dist 3/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/bootstrap-5.3.3-dist 3/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/cropped-favicon-32x32.png",
+      "PackagePath": "staticwebassets/cropped-favicon-32x32.png"
+    },
+    {
       "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/css/site.css",
       "PackagePath": "staticwebassets/css/site.css"
     },

@@ -21,7 +21,10 @@ namespace MVCEgitim.Controllers
         {
             return View();// Burada View altında Hakkımızzda adında bir view
         }
-
+    public IActionResult Ders12OrnekTasarim()
+        {
+            return View();
+        }
         
     }
 }
