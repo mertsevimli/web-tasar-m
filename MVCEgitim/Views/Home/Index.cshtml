@@ -6,18 +6,38 @@
     <h1 class="display-4">ASP.NET MVC Eğitimi</h1>
     <p> <a href=""></a>.</p>
 </div>
+<div class="alert alert-secondary border-dark">
 <p>M: Model = Veritabanıyla çalışan uygulamalar yaptığımızzda kullandığımız Ürün, Kategori , Marka  vb gibi class dosyalarımızı eklediğimiz klasördür.</p>
 <p>V : Views = Web uygulamalarının ekranları Views klasörü altında bulunur.</p>
 <p>C : Controllers = Uygulamamıza gelen sayfa açma isteklerini karşılayıp ilgili ekran varsa kullanıcıya gösteren , veritabanı kullanan uygulamalarda  işlemlerini yapabilen sınıfların olduğu klasördür.</p>
+</div>
 
 <p> Yeni bir MVC projesi oluşturduğumuzda 1 home Controllers oluşur.
 </p>
 <h3>Bir Controllers da varsayılan sayfa Indexdir</h3>
-<h2>Projeye Yeni Controller Ekleme</h2>
+<h2 class="alert alert-success">Projeye Yeni Controller Ekleme</h2>
 <p> Projedeki Controllers klasörüne sağ tık > add > controller > Empty > add menüsünden vereceğimiz isimle yeni bir controller ekleyebiliriz. </p>
-<p class="txt text-danger"> Dikkat! Yeni Controller eklerken adının sonunda mutlaka controller yazmalıdır yoksa MVC açamaz! <br>
+<p class=" alert alert-danger"> Dikkat! Yeni Controller eklerken adının sonunda mutlaka controller yazmalıdır yoksa MVC açamaz! <br>
 Örnek : UrunlerimizController.cs şeklinde  olmalıdır isim.</p>
-<h2>Projeye View ekleme</h2>
+<h2 class="alert alert-warning">Projeye View ekleme</h2>
 <p>Controller ı oluşturduktan sonra aynı isimle View Klasöründe 1 klasör oluşturmamız gerekmekte. Bunu manuel de ekleyebiliriz. Visual Studioda controller içinde ki action metoduna sağ tıklayıp add view diyerek de oluşturmasını sağlayabiliriz.</p>
 
 <div> Örnek : Controllers a AnasayfaController eklediysek views klasöründe Anasayfa adında 1 klasör olmalıdır. BU Klasöre sağ tıklayıp add view diyerek Index.cshtml dosya adıyla ekleceğimiz dosya içerisine yazdığımız içerikler uygulamayı calıstırdıktan sonra tarayıcı adres cubuğuna localhost... /Anasafya şeklinde yazdığımızda gösterilecektir.</div>
+<br>
+
+<h3 class=" alert alert-primary">Üst Menüyü Özelleştirme > Değiştirme</h3>
+<p> Projedeki Views klasörünü genişletip altındaki Shared klasöründe yer alana _Layout.cshtml dosyasını açıyoruz <br>
+Bu dosya views altındaki sayfaları tüm sayfaları içinde çalıştıran ana şablonu barındırır <br> Üst Menüyü değiştirmek için ekranda gördüğümüz menü yazılarının olduğu kodları bulup istediğimiz şekilde değiştirip kaydetmeniz gerekir.
+</p>
+<h3 class="alert - alert-secondary">_Layouttaki > RenderBody </h3>
+<p>View klasörü altındaki anasayfa , hakkimizda vb tüm cshtml uzantılı sayfalar bu metodun içinde çaşıştırılır. <br>
+Layout içinde  yer almak zorundadır. Silinirse sayfalar çalışmaz</p>
+
+<h3 class="alert alert-info">Shared Klasörü</h3>
+<p>Tüm projenin ortak dosyaları bu klasörde tutulur. Layout dosyası ana şablondur. Error sayfası uygulama hatalarını göstermek için kullanılan ortak sayfadır. Bu hata sayfasını istediğimiz gibi değiştirebiliriz.</p>
+
+<h3 class="alert alert-warning">Views > _ ViewImports.cshtml Dosyası</h3>
+<p>Bu dosya proje içindeki kullanılacak olan ortak usinlerin tutulduğu dosyadır.<br> - Bu dosya sayesinde yeni ekleyeceğimiz namespaceleri her ekranda tekrar yazmaktan kurtuluruz.</p>
+
+
+
