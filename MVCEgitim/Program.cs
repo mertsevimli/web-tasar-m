@@ -1,27 +1,40 @@
+using MVCEgitim.Models;
+using Microsoft.EntityFrameworkCore;
+
+
 var builder = WebApplication.CreateBuilder(args);
-
+ 
 // Add services to the container.
-builder.Services.AddControllersWithViews();
 
-var app = builder.Build();
+builder.Services.AddControllersWithViews(); // Mvc deki Controller ve Viewların çalışması için gerekli ayar
+ 
+builder.Services.AddDbContext<UyeContext>(); // Projede entity framework kullanabilmek için gereki ayar
+// builder.Services.AddDbContext<UyeContext>(option=> option.UseInMemoryDatabase("UyeDb"));//Projede gerçek veritabanı yerine cihaz belleğine çalışan sanal db kullanmamıza sağlar
+// builder.Services.AddDbContext<UyeContext>(option => option.UseInMemoryDatabase("UyeDb"));
 
+ 
+var app = builder.Build(); // Yukardaki ayarlarla bir uygulama örneği oluştur
+ 
 // Configure the HTTP request pipeline.
-if (!app.Environment.IsDevelopment())
+
+if (!app.Environment.IsDevelopment()) // Uygulama çalışma ortamı IsDevelopment(Geliştirme ortamı) değilse
+
 {
-    app.UseExceptionHandler("/Home/Error");
-    // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
-    app.UseHsts();
+
+    app.UseExceptionHandler("/Home/Error"); // Oluşan hataları yakala ve uygulamayı /Home/Error adresine yönlendir. (Home:Controller, Error:Action)
+
 }
 
-app.UseHttpsRedirection();
-app.UseStaticFiles();
+app.UseStaticFiles(); // Uygulamada statik dosyaları, yani css, js, resim dosyalarını vb çalıştırmayı destekle
+ 
+app.UseRouting(); // Uygulamada routing yapısını kullanarak controller ve action eşleşmelerini destekle
+ 
+app.UseAuthorization(); // Uygulamada yetkilendirmeyi aktif et
+ 
+app.MapControllerRoute( // Uygulamada varsayılan Route yapılandırmasını aktif et
 
-app.UseRouting();
+    name: "default", // adı default olsun
 
-app.UseAuthorization();
-
-app.MapControllerRoute(
-    name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}");
-
-app.Run();
+    pattern: "{controller=Home}/{action=Index}/{id?}"); // Uygulamaya controller ve action belirtilmeden gelinirse varsayılan olarak Home controller daki Index isimli action ı çalıştır. Burada id? parametresi ? ile parametrik olarak ifade edilmiştir. Yani gelmeyedebilir.
+ 
+app.Run(); // Uygulamayı yukardaki tüm ayarları kullanarak çalıştır.

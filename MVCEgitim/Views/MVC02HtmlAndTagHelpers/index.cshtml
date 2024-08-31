@@ -1,0 +1,96 @@
+@{
+    ViewBag.Title = "MVC Html And Tag Helpers";
+}
+<h1>@ViewBag.Title</h1>
+@Html.ActionLink("Anasayfa", "Index", "Home")
+<br>
+@Html.ActionLink("MVC01 Razor Syntax", "Index", "MVC01RazorSyntax")
+<br>
+@Html.ActionLink("Hakkımızda", "Hakkimizda", "Anasayfa")
+<br>
+<p class="alert alert-info">
+    Html.ActionLink() metodu ekranda a href elementi oluşturmamıza yardımcı olur.
+    <br>
+    ActionLink metodu 3 parametre alır;<br> 1.si a elementinde yazavak olan yazı,<br>
+    -2.si tıklayınca çalışıcak olan action metodunun ismi<br>
+    -3.sü bu action metodunun bulunduğu controller ismi <br>
+    NOT : ActionLink metodunun üzerine mouse ile gelip bekleyince bu parametreleri bize gösteriyor.
+</p>
+
+<a asp-action="Index" asp-controller="Home" asp-route-id="18">Anasayfa</a>
+
+<h3>
+    Html Checkbox Oluşturma
+</h3>
+@Html.CheckBox("Onay") Onaylıyorum
+
+<h3>HTML TextBox Oluşturma</h3>
+
+@Html.TextBox("txtAd") Ekranda giriş (input) elementi oluşturur.
+
+Çıktısı :<input id="txtAd" name="txtAd" type="text" value="">
+
+<h3> Html Hidden (Gizli Element) Oluşturma</h3>
+@Html.Hidden("GizliElement", "Html Hidden(Gizli Element) deki veriler sadece sayfa kaynasında görünür.")
+
+<h3>
+    HTML label Oluşturma
+</h3>
+
+@Html.Label("lblAd", "Html label elementi")
+
+<h3>HTML TextArea (Çok satırlı İnput)Oluşturma </h3>
+
+@Html.TextArea("txtAdres", "Html Textarea(Çok satırlı input oluşuturma)")
+
+<h3>Html Password (şifre Alanı) oluşturma</h3>
+
+@Html.Password("txtPassword")
+
+<hr>
+<h3>HTMl HELPERS ile form Oluşturma</h3>
+
+@using (Html.BeginForm())
+{
+    <h4>Kullanıcı Adı</h4>
+    @Html.Editor("txtKullaniciAdi")
+    <h4>Şifre</h4>
+    @Html.Password("txtPassword")
+    <br>
+    <input type="submit" value="Giriş" />
+}
+<hr>
+
+<h3> Tag Helpers ile Form Oluşturma</h3>
+
+<form asp-action="Index" asp-controller="MVC02HtmlAndTagHelpers" method="post">
+    <h4>Kullanıcı Adı</h4>
+    <input id="txtPassword" name="txtPassword" type="password">
+    <br>
+    <input type="submit" value="Giriş" </form>
+
+    <hr>
+    <h3>Listbox ve DropDownList Elementi Kullanımı</h3>
+
+@{
+    var kategoriler = new SelectListItem[]
+    {
+    new SelectListItem() {Text = "Bilgisayar"},
+    new SelectListItem() {Text = "Elektronik"},
+    new SelectListItem() {Text = "Telefon"},
+    };
+    string htmlRawOrnek = "<h5> Html Raw ile Ekrana Html içerik yazdırma </h5>";
+}
+@Html.ListBox("lbListe", kategoriler)
+    <br>
+@Html.DropDownList("ddlListe", kategoriler)
+    <hr>
+    <h3>Radio Button Elementi Kullanımı</h3>
+    @Html.RadioButton("rbOnay", "Onaylıyorum") Sözleşmeyi Onaylıyorum
+    <hr>
+    <h3>HTML raw ile ekrana html içerik yazdırma</h3>
+    @htmlRawOrnek
+
+    @Html.Raw(@htmlRawOrnek)
+    <br>
+    @Html.Raw("<b style='color:red'> Html Raw ile Ekrana HTML içerik Yazdırma </b>")

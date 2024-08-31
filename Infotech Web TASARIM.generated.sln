@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infotech Web TASARIM", "Infotech Web TASARIM.csproj", "{0B5F2E17-14EB-4573-9DF3-032918DCC389}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infotech Web TASARIM", "Infotech Web TASARIM.csproj", "{FC2133AA-CE64-4D4E-9DAB-8EAC745C3BA5}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MVCEgitim", "MVCEgitim\MVCEgitim.csproj", "{B085EA59-1EEB-4CED-A524-03E4AA9DA9AA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MVCEgitim", "MVCEgitim\MVCEgitim.csproj", "{F18FCFF9-4ACE-4D80-BF25-F270A493B21C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,14 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{0B5F2E17-14EB-4573-9DF3-032918DCC389}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0B5F2E17-14EB-4573-9DF3-032918DCC389}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0B5F2E17-14EB-4573-9DF3-032918DCC389}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0B5F2E17-14EB-4573-9DF3-032918DCC389}.Release|Any CPU.Build.0 = Release|Any CPU
-		{B085EA59-1EEB-4CED-A524-03E4AA9DA9AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B085EA59-1EEB-4CED-A524-03E4AA9DA9AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B085EA59-1EEB-4CED-A524-03E4AA9DA9AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B085EA59-1EEB-4CED-A524-03E4AA9DA9AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC2133AA-CE64-4D4E-9DAB-8EAC745C3BA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC2133AA-CE64-4D4E-9DAB-8EAC745C3BA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC2133AA-CE64-4D4E-9DAB-8EAC745C3BA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC2133AA-CE64-4D4E-9DAB-8EAC745C3BA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F18FCFF9-4ACE-4D80-BF25-F270A493B21C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F18FCFF9-4ACE-4D80-BF25-F270A493B21C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F18FCFF9-4ACE-4D80-BF25-F270A493B21C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F18FCFF9-4ACE-4D80-BF25-F270A493B21C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
