@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link
+    rel="stylesheet"
+    href="/BootstapEgitimi/bootstrap-5.3.3-dist 3/css/bootstrap.min.css"
+  />
+  <link
+    type="image/x-icon"
+    rel="icon"
+    href="/Resimler/cropped-favicon-32x32.png"
+  />
+  <link
+    rel="stylesheet"
+    href="/OwlCarousel2-2.3.4/docs/assets/owlcarousel/assets/owl.carousel.min.css"
+  />
+  <link
+    rel="stylesheet"
+    href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css"
+  />
+</head>
+<body>
+    
+  
+    <header
+    class="d-flex flex-wrap align-items-center justify-content-center justify-content-md-between py-3 mb-4 border-bottom ">
+    <div class="col-md-3 mb-2 mb-md-0">
+      <a
+        href="/bt_odev/index.html"
+        class="d-inline-flex link-body-emphasis text-decoration-none"
+      >
+        <img
+          src="	https://hillsa.com.tr/front/uploads/logo/5d6d762bc920cef483dc7d77e78f88ee6ed79c42.webp"
+          alt="cepatest"
+          class="img-fluid"
+          width="90"
+          height="100"
+        />
+      </a>
+    </div>
+  
+    <ul class="nav col-12 col-md-auto mb-2 justify-content-center mb-md-0">
+      <li>
+        <a
+          href="/bt_odev/index.html"
+          class="nav-link px-2 link-dark"
+          >Anasayfa</a
+        >
+      </li>
+      <li class="vr"></li>
+      <li>
+        <a
+          href="/bt_odev/hakkimizda.html"
+          class="nav-link px-2 link-dark"
+          >Hakkımızda</a
+        >
+      </li>
+      <li class="vr"></li>
+      <li>
+        <div class="dropdown">
+          <a
+            class="nav-link px-2 dropdown-toggle border-0 link-dark"
+            href="#"
+            role="button"
+            data-bs-toggle="dropdown"
+            aria-expanded="false"
+          >
+            Ürün Detay
+          </a>
+  
+          <ul class="dropdown-menu">
+            <li>
+              <a class="dropdown-item" href="#"
+                >L Koltuk Takımı</a
+              >
+            </li>
+            <li>
+              <a class="dropdown-item" href="#"> Berjer Takımı</a>
+            </li>
+            <li>
+              <a class="dropdown-item" href="#"
+                >Masa ve Sehpalar</a
+              >
+            </li>
+          </ul>
+        </div>
+      </li>
+      <li class="vr"></li>
+      <li>
+        <a href="#" class="nav-link px-2 link-dark">Kampanyalı Ürünler</a>
+      </li>
+      <li class="vr"></li>
+      <li>
+        <a
+          href="/bt_odev/iletisim.html"
+          class="nav-link px-2 link-dark"
+          >İletişim</a
+        >
+      </li>
+    </ul>
+  
+    <div class="col-md-3 text-end">
+      <a
+        href="/BootstapEgitimi/signin.html"
+        class="btn btn-outline-secondary me-2"
+        target="_blank"
+        >Giriş Yap</a
+      >
+      <button type="button" class="btn btn-outline-secondary">Üye Ol</button>
+    </div>
+  </header>
+
+
+
+
+
+    <script src="/Scripts/jquery-3.7.1.min.js"></script>
+    <script src="/BootstapEgitimi/bootstrap-5.3.3-dist 3/js/bootstrap.bundle.min.js"></script>
+
+    <script src="/OwlCarousel2-2.3.4/docs/assets/owlcarousel/owl.carousel.min.js"></script>
+    <!-- <p>     //js Kodları buraya</p> -->
+    <script>
+      var owl = $(".owl-carousel");
+      owl.owlCarousel({
+        items: 3,
+        loop: true,
+        margin: 10,
+        autoplay: true,
+        autoplayTimeout: 3000,
+        autoplayHoverPause: true,
+      });
+      $(".play").on("click", function () {
+        owl.trigger("play.owl.autoplay", [1000]);
+      });
+      $(".stop").on("click", function () {
+        owl.trigger("stop.owl.autoplay");
+      });
+    </script>
+</body>
+</html>

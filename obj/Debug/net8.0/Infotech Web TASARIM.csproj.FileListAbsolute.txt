@@ -1,0 +1,8 @@
+/Users/mertsevimli/Desktop/Infotech Web TASARIM/obj/Debug/net8.0/Infotech Web TASARIM.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mertsevimli/Desktop/Infotech Web TASARIM/obj/Debug/net8.0/Infotech Web TASARIM.AssemblyInfoInputs.cache
+/Users/mertsevimli/Desktop/Infotech Web TASARIM/obj/Debug/net8.0/Infotech Web TASARIM.AssemblyInfo.cs
+/Users/mertsevimli/Desktop/Infotech Web TASARIM/obj/Debug/net8.0/Infotech Web TASARIM.csproj.CoreCompileInputs.cache
+/Users/mertsevimli/Desktop/Infotech Web TASARIM/obj/Debug/net8.0/Infotech Web TASARIM.MvcApplicationPartsAssemblyInfo.cache
+/Users/mertsevimli/Desktop/Infotech Web TASARIM/obj/Debug/net8.0/Infotech Web TASARIM.RazorAssemblyInfo.cache
+/Users/mertsevimli/Desktop/Infotech Web TASARIM/obj/Debug/net8.0/Infotech Web TASARIM.RazorAssemblyInfo.cs
+/Users/mertsevimli/Desktop/Infotech Web TASARIM/obj/Debug/net8.0/Infotech Web TASARIM.sourcelink.json
