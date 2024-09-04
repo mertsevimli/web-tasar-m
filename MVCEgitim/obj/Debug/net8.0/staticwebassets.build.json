@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "MJQeg6oLJyuBVTigZJlNcqD3lo8w9p0b+ZaWvgh3yWg=",
+  "Hash": "QJQybwAs17vd4RjzcdmbXc9BtDxI7m20AImIs6Gcsls=",
   "Source": "MVCEgitim",
   "BasePath": "_content/MVCEgitim",
   "Mode": "Default",
@@ -986,6 +986,25 @@
       "OriginalItemSpec": "wwwroot/Images/Blue Illustration Minimalist Announcement Exams Student Instagram Post.png"
     },
     {
+      "Identity": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/Images/BRITISH SIDE EYLÜL 2024.jpeg",
+      "SourceId": "MVCEgitim",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/",
+      "BasePath": "_content/MVCEgitim",
+      "RelativePath": "Images/BRITISH SIDE EYLÜL 2024.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Images/BRITISH SIDE EYLÜL 2024.jpeg"
+    },
+    {
       "Identity": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/Images/BS-Logo-Final copy.png",
       "SourceId": "MVCEgitim",
       "SourceType": "Discovered",
@@ -1119,6 +1138,25 @@
       "OriginalItemSpec": "wwwroot/Images/infotechacademyik (1).jpg"
     },
     {
+      "Identity": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/Images/izmirselcuk.jpg",
+      "SourceId": "MVCEgitim",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/",
+      "BasePath": "_content/MVCEgitim",
+      "RelativePath": "Images/izmirselcuk.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Images/izmirselcuk.jpg"
+    },
+    {
       "Identity": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/Images/logoInfotechAcademy copy.png",
       "SourceId": "MVCEgitim",
       "SourceType": "Discovered",
@@ -1214,25 +1252,6 @@
       "OriginalItemSpec": "wwwroot/Images/pexels-pixabay-163864.jpg"
     },
     {
-      "Identity": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/Images/pexels-pixabay-164041.jpg",
-      "SourceId": "MVCEgitim",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/",
-      "BasePath": "_content/MVCEgitim",
-      "RelativePath": "Images/pexels-pixabay-164041.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/Images/pexels-pixabay-164041.jpg"
-    },
-    {
       "Identity": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/Images/pexels-pixabay-235990.jpg",
       "SourceId": "MVCEgitim",
       "SourceType": "Discovered",
@@ -1269,25 +1288,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/Images/pexels-pixabay-289586.jpg"
-    },
-    {
-      "Identity": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/Images/unsplash-photo-1.jpg",
-      "SourceId": "MVCEgitim",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/",
-      "BasePath": "_content/MVCEgitim",
-      "RelativePath": "Images/unsplash-photo-1.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/Images/unsplash-photo-1.jpg"
     },
     {
       "Identity": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/js/site.js",

@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets/MVCEgitim.bundle.scp.css"
     },
     {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/Images/BRITISH SIDE EYLÜL 2024.jpeg",
+      "PackagePath": "staticwebassets/Images/BRITISH SIDE EYLÜL 2024.jpeg"
+    },
+    {
       "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/Images/BS-Logo-Final copy.png",
       "PackagePath": "staticwebassets/Images/BS-Logo-Final copy.png"
     },
@@ -41,6 +45,10 @@
       "PackagePath": "staticwebassets/Images/infotechacademyik (1).jpg"
     },
     {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/Images/izmirselcuk.jpg",
+      "PackagePath": "staticwebassets/Images/izmirselcuk.jpg"
+    },
+    {
       "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/Images/logoInfotechAcademy copy.png",
       "PackagePath": "staticwebassets/Images/logoInfotechAcademy copy.png"
     },
@@ -61,20 +69,12 @@
       "PackagePath": "staticwebassets/Images/pexels-pixabay-163864.jpg"
     },
     {
-      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/Images/pexels-pixabay-164041.jpg",
-      "PackagePath": "staticwebassets/Images/pexels-pixabay-164041.jpg"
-    },
-    {
       "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/Images/pexels-pixabay-235990.jpg",
       "PackagePath": "staticwebassets/Images/pexels-pixabay-235990.jpg"
     },
     {
       "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/Images/pexels-pixabay-289586.jpg",
       "PackagePath": "staticwebassets/Images/pexels-pixabay-289586.jpg"
-    },
-    {
-      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/Images/unsplash-photo-1.jpg",
-      "PackagePath": "staticwebassets/Images/unsplash-photo-1.jpg"
     },
     {
       "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/.gitattributes",

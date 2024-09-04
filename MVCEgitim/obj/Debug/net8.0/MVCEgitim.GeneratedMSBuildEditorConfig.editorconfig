@@ -98,12 +98,44 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTVZDMDZDUlVEL0luZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/Views/MVC07Section/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTVZDMDdTZWN0aW9uL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/Views/MVC08Partial/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTVZDMDhQYXJ0aWFsL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/Views/MVC08Partial/_PartialModelKullanimi.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTVZDMDhQYXJ0aWFsL19QYXJ0aWFsTW9kZWxLdWxsYW5pbWkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/Views/MVC09ViewResults/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTVZDMDlWaWV3UmVzdWx0cy9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/Views/MVC10FileUpload/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTVZDMTBGaWxlVXBsb2FkL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/Views/MVC11Cookie/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTVZDMTFDb29raWUvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/Views/Shared/_KategorilerPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19LYXRlZ29yaWxlclBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/Views/Shared/_Layout2.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/Views/Shared/_PartialMenu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19QYXJ0aWFsTWVudS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/Views/Shared/_ValidationScriptsPartial.cshtml]
