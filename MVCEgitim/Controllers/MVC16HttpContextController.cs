@@ -15,7 +15,7 @@ namespace MVCEgitim.Controllers
         public IActionResult Index()
         {
             var geriDonusAdresi = HttpContext.Request.Query["ReturnUrl"];//* : burada adres çubuğundaki ReturnUrl isimliQueryString nesnesini yakalayıp işleyebiliriyoruz.Kullanıcıyı buraada yer alan ekrana yönlendirmek için mesela
-            var urunAdi = MVC16HttpContextController.Request.Query["UrunAdi"];//* Bu şekilde adres cubuğundan gönderilen ürün adını yakalayıp veritabanına eşleşen kayıtları bulup kullanıcıya ilgili ürünleri sunabiliriz.
+            var urunAdi = HttpContext.Request.Query["UrunAdi"];//* Bu şekilde adres cubuğundan gönderilen ürün adını yakalayıp veritabanına eşleşen kayıtları bulup kullanıcıya ilgili ürünleri sunabiliriz.
             return View();
         }
 
