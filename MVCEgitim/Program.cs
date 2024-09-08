@@ -13,19 +13,23 @@ builder.Services.AddDbContext<UyeContext>(); // Projede entity framework kullana
 // builder.Services.AddDbContext<UyeContext>(option => option.UseInMemoryDatabase("UyeDb"));
 
  
-var app = builder.Build(); // Yukardaki ayarlarla bir uygulama örneği oluştur
- 
-// Configure the HTTP request pipeline.
+ builder.Services.AddSession();//* Uygulamada session kullanabilmek için servis ekliyoruz.
 
-if (!app.Environment.IsDevelopment()) // Uygulama çalışma ortamı IsDevelopment(Geliştirme ortamı) değilse
+var app = builder.Build(); //* Yukardaki ayarlarla bir uygulama örneği oluştur
+ 
+//* Configure the HTTP request pipeline.
+
+if (!app.Environment.IsDevelopment()) //* Uygulama çalışma ortamı IsDevelopment(Geliştirme ortamı) değilse
 
 {
 
-    app.UseExceptionHandler("/Home/Error"); // Oluşan hataları yakala ve uygulamayı /Home/Error adresine yönlendir. (Home:Controller, Error:Action)
+    app.UseExceptionHandler("/Home/Error"); //* Oluşan hataları yakala ve uygulamayı /Home/Error adresine yönlendir. (Home:Controller, Error:Action)
 
 }
 
-app.UseStaticFiles(); // Uygulamada statik dosyaları, yani css, js, resim dosyalarını vb çalıştırmayı destekle
+app.UseStaticFiles(); //* Uygulamada statik dosyaları, yani css, js, resim dosyalarını vb çalıştırmayı destekle
+
+app.UseSession(); //*Uygulamada session kullanabilsin.
  
 app.UseRouting(); // Uygulamada routing yapısını kullanarak controller ve action eşleşmelerini destekle
  
