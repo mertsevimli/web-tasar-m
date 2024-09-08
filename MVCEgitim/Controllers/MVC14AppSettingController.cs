@@ -20,11 +20,11 @@ namespace MVCEgitim.Controllers
         {
             ViewBag.MailinGidecegiAdres = _configuration["Email"];
             ViewBag.MailSunucu = _configuration["MailSunucu"];
-            ViewBag.KullaniciAdi = _configuration["MailKullanici : Username"];//* iç içe verilere ulaşma yöntemi
+            ViewBag.KullaniciAdi = _configuration["MailKullanici:Username"];//* iç içe verilere ulaşma yöntemi
             //*ViewBag.Sifre = _configuration["MailKullanici: Password"]; //1.Yöntem
 
             ViewBag.Sifre = _configuration.GetSection
-            ("MailKullanici : Password").Value;//*2.Yöntem
+            ("MailKullanici:Password").Value;//*2.Yöntem
             
             return View();
         }
