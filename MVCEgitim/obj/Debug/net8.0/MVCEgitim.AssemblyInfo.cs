@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MVCEgitim")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9917c6f1e2132f9f37cd6893ff17071ae2557ac2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e583b22754939a00f461fedca51b4da957a6a1c8")]
 [assembly: System.Reflection.AssemblyProductAttribute("MVCEgitim")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MVCEgitim")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
