@@ -21,6 +21,18 @@
       "PackagePath": "staticwebassets/Images/CEPAlogo.png"
     },
     {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/Images/Ekran Resmi 2024-09-17 21.26.40.png",
+      "PackagePath": "staticwebassets/Images/Ekran Resmi 2024-09-17 21.26.40.png"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/Images/Ekran Resmi 2024-09-19 17.44.25.png",
+      "PackagePath": "staticwebassets/Images/Ekran Resmi 2024-09-19 17.44.25.png"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/Images/Ekran Resmi 2024-09-20 09.09.44.png",
+      "PackagePath": "staticwebassets/Images/Ekran Resmi 2024-09-20 09.09.44.png"
+    },
+    {
       "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/Images/WhatsApp Image 2024-09-13 at 08.52.00.jpeg",
       "PackagePath": "staticwebassets/Images/WhatsApp Image 2024-09-13 at 08.52.00.jpeg"
     },
@@ -79,6 +91,10 @@
     {
       "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/Images/pexels-pixabay-289586.jpg",
       "PackagePath": "staticwebassets/Images/pexels-pixabay-289586.jpg"
+    },
+    {
+      "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/Images/powerturk.png",
+      "PackagePath": "staticwebassets/Images/powerturk.png"
     },
     {
       "Id": "/Users/mertsevimli/Desktop/Infotech Web TASARIM/MVCEgitim/wwwroot/OwlCarousel2-2.3.4/.gitattributes",

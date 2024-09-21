@@ -23,7 +23,7 @@ namespace MVCEgitim.Areas.Admin.Controllers
 
         public async Task<IActionResult> IndexAsync(string q = "")
         {
-            var model = await _context.Urunler.Where(u=>u.Adi.Contains(q)).ToListAsync();
+            var model = await _context.Urunler.Where(u => u.Adi.Contains(q)).ToListAsync();
             return View(model);
         }
 
@@ -39,11 +39,10 @@ namespace MVCEgitim.Areas.Admin.Controllers
             {
                 if (Resmi is not null)
                 {
-                    
                     string klasor = Directory.GetCurrentDirectory() + "/wwwroot/Images/"; // dosyayı yükleyeceğimiz klasör
-                     using var stream = new FileStream(klasor + Resmi.FileName, FileMode.Create);
-                     Resmi.CopyTo(stream);
-                     urun.Resmi = Resmi.FileName; //* Eklenecek olan ürünün resim bilgisi yüklenen dosyanın dosya adı olsun.
+                    using var stream = new FileStream(klasor + Resmi.FileName, FileMode.Create);
+                    Resmi.CopyTo(stream);
+                    urun.Resmi = Resmi.FileName; //* Eklenecek olan ürünün resim bilgisi yüklenen dosyanın dosya adı olsun.
                 }
 
                 await _context.Urunler.AddAsync(urun);
@@ -56,17 +55,47 @@ namespace MVCEgitim.Areas.Admin.Controllers
             }
             return View(urun);
         }
-        public IActionResult Edit(int id)
-        {
-            return View ();
-        }
-        [HttpPost]
-        public IActionResult Edit(Urun urun, IFormFile? Resmi)
-    {
-        
-        return View(urun);
-    }
-       
-       }
-    }
 
+        public async Task<IActionResult> EditAsync(int id)
+        {
+            var model = await _context.Urunler.FindAsync(id);
+            return View(model);
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> EditAsync(Urun urun, IFormFile? Resmi)
+        {
+            if (ModelState.IsValid)
+            {
+                if (Resmi is not null)
+                {
+                    string klasor = Directory.GetCurrentDirectory() + "/wwwroot/Images/"; // dosyayı yükleyeceğimiz klasör
+                    using var stream = new FileStream(klasor + Resmi.FileName, FileMode.Create);
+                    Resmi.CopyTo(stream);
+                    urun.Resmi = Resmi.FileName; //* Eklenecek olan ürünün resim bilgisi yüklenen dosyanın dosya adı olsun.
+                }
+                _context.Urunler.Update(urun);
+                var sonuc = await _context.SaveChangesAsync();
+                if (sonuc > 0)
+                    return RedirectToAction("Index");
+            }
+            return View(urun);
+        }
+
+        public async Task<IActionResult> DeleteAsync(int id)
+        {
+            var model = await _context.Urunler.FindAsync(id);
+            return View(model);
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> DeleteAsync(Urun urun, int id)
+        {
+            _context.Urunler.Remove(urun);
+            var sonuc = await _context.SaveChangesAsync();
+            if (sonuc > 0)
+                return RedirectToAction("Index");
+            return View(urun);
+        }
+    }
+}
