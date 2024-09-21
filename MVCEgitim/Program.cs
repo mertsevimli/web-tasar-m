@@ -39,6 +39,14 @@ app.UseRouting(); // Uygulamada routing yapısını kullanarak controller ve act
 
 app.UseAuthorization(); // Uygulamada yetkilendirmeyi aktif et
 
+
+//*Admin paneli areasının çalışması için gerekli routing yapısını ekliyoruz.
+app.MapControllerRoute(
+    name: "areas",
+    pattern: "{area:exists}/{controller=Main}/{action=Index}/{id?}"
+);
+
+
 app.MapControllerRoute( // Uygulamada varsayılan Route yapılandırmasını aktif et
     name: "default", // adı default olsun
     pattern: "{controller=Home}/{action=Index}/{id?}"

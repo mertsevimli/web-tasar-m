@@ -1,0 +1,42 @@
+@{
+    ViewData["Title"] = "Area Kullanımı";
+}
+<h1>
+   @ViewData["Title"] 
+</h1>
+<p>
+    MVC de Admin paneli oluşturmak için Area kullanılır.Proje içerisinde bir blog sitesi oluşturmak içinde area kullanılır.
+</p>
+
+<p>Ozetle uygulama içerisinde çalışan iç uygulamalar yapısında kendi controller ve viewları olan farklı tasarımlar kullanabileceğimiz alanlara area denir.</p>
+
+<h3>
+     Projeye Area Ekleme
+</h3>
+<p class=" alert alert-warning">
+projeye sağ tık  > Açılan menüden Add > New Scaffolded item (vs için)
+(vs code ise) new folder > Areas adında klasör ekle. Admin isminde klasör ekle  admin klasörü içine Controllers, Models ve Views , Data klasörlerini ekle Controllers> Main Controller actık  View > Main > Index.cshtml açtık
+</p>
+
+<h3>Area Ayarını Ekleme</h3>
+<p class="alert alert-success">
+
+    Area yı ekledikten sonra program.cs ye buradaki gibi Routing ayarını ekliyoruz.
+    <code>app.MapControllerRoute(
+    name: "areas",
+    pattern: "{area:exists}/{controller=Main}/{action=Index}/{id?}"
+);
+</code>
+</p>
+
+<h4>
+    Admin Area Örneği
+</h4>
+
+<a href="/Admin">Admin Paneline Git</a>
+
+<p>Dikkat ! <br>
+Area altındaki ekranlar  direkt çalışmaz
+Çalışması için Area altındaki controller lara hangi Area altında çalışıyorsa Attribute olarak onu eklememiz gerekli. Bkz <br> Area > Admin > Main controller
+
+</p>

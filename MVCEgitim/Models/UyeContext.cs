@@ -13,6 +13,7 @@ namespace MVCEgitim.Models
     public class UyeContext : DbContext
     {
         public DbSet<Uye> Uyeler { get; set; }
+         public DbSet<Urun> Urunler { get; set; } // Terminalden yeni migration oluşturuyoruz.
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             // optionsBuilder.UseSqlServer(@"Server=(localdb)/MSSQLLocalDb; database=UyeDb; integrated security=true; TrustServerCertificate=True ");

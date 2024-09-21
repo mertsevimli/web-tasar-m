@@ -104,6 +104,7 @@ namespace MVCEgitim.Controllers
             {
                 ModelState.AddModelError("", "Hata Oluştu!" + hata.Message);
             }
+            ModelState.AddModelError("", "Giriş Başarısız");
             return View(uye);
         }
         [HttpPost] 
